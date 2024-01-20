@@ -1,0 +1,46 @@
+DRC Rules Export File for PCB: D:\AProj\RockerBox\RockerBox_Rev01\RockerBox_Rev01.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName='Default' PADS rule_14|Scope=Board|Minimum=5.12
+RuleKind=Clearance|RuleName='Default' PADS rule_16|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName='Default' PADS rule_19|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName='Default' PADS rule_20|Scope=Board|Minimum=4.33
+RuleKind=Clearance|RuleName='Default' PADS rule_21|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName='Default' PADS rule_22|Scope=Board|Minimum=4.33
+RuleKind=Clearance|RuleName='Default' PADS rule_23|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName='Default' PADS rule_24|Scope=Board|Minimum=4.33
+RuleKind=Clearance|RuleName='Default' PADS rule_25|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName='Default' PADS rule_26|Scope=Board|Minimum=4.33
+RuleKind=Clearance|RuleName='Default' PADS rule_27|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName='Default' PADS rule_28|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName='Default' PADS rule_29|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName='Default' PADS rule_30|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName='Default' PADS rule_31|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName='Default' PADS rule_32|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName='Default' PADS rule_33|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName='All on Layer' PADS rule|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_34|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_37|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_38|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_39|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_40|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_41|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_42|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_43|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_44|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_45|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_46|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_47|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName='All on Layer' PADS rule_48|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_49|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_52|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_53|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_54|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_55|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_56|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_57|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_58|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_59|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_60|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_61|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName='All on Layer' PADS rule_62|Scope=Board|Minimum=9.84

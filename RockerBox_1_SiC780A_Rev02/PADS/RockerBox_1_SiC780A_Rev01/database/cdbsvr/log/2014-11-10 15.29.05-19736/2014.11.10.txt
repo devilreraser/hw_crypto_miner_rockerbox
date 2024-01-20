@@ -1,0 +1,211 @@
+[2014.11.10 15:29:05] [0000m.00s.030ms] [0] WELCOME
+[2014.11.10 15:29:05] [0000m.00s.030ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2014.11.10 15:29:05] [0000m.00s.030ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2014.11.10 15:29:05] [0000m.00s.030ms] [1] Base flow version [7.9.4]
+[2014.11.10 15:29:05] [0000m.00s.030ms] [1] GBS Install Id [27413], Flow Id [PADS 9.5], Full Flow Name [PADS 9.5], Exact Access Date [Jun 1 2012]
+[2014.11.10 15:29:05] [0000m.00s.030ms] [1] UPDATE Install Info, GBS Install Id [39489], UPDATE Name [PADS 9.5 Update 2]
+[2014.11.10 15:29:05] [0000m.00s.030ms] [1] Machine [DND-1285]  User [gta]  PID [19736]
+[2014.11.10 15:29:05] [0000m.00s.030ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [1] Current working dir [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [1] PATH [C:\MentorGraphics\9.5PADS\SDD_HOME\wv\win32\bin;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\lib;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\bin;C:\PROGRA~1\PTC\MKSTOO~1\bin64;C:\PROGRA~1\PTC\MKSTOO~1\bin;C:\PROGRA~1\PTC\MKSTOO~1\bin\X11;C:\PROGRA~1\PTC\MKSTOO~1\mksnt;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;c:\Program Files (x86)\Common Files\Roxio Shared\10.0\DLLShared\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\proeWildfire 5.0\bin;C:\Program Files\proeWildfire 5.0\mech\bin;C:\Program Files (x86)\SysinternalsSuite2012.05.14;C:\Program Files (x86)\Hewlett-Packard\HP Performance Advisor;C:\Cadence\SPB_16.5\OpenAccess\bin\win32\opt;C:\Cadence\SPB_16.5\tools\bin;C:\Cadence\SPB_16.5\tools\Capture;C:\Cadence\SPB_16.5\tools\PSpice\Library;C:\Cadence\SPB_16.5\tools\PSpice;C:\Cadence\SPB_16.5\tools\fet\bin;C:\Cadence\SPB_16.5\tools\specctra\bin;C:\Cadence\SPB_16.5\tools\pcb\bin;;C:\MentorGraphics\9.3.1PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [1] SDD_HOME [C:\MentorGraphics\9.5PADS\SDD_HOME] on file system [NTFS]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [1] SDD_PLATFORM [win32]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\9.5PADS\SDD_HOME\standard]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [2] S: Loading config files
+[2014.11.10 15:29:05] [0000m.00s.040ms] [1] Config file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\cdbsvr\Server.cfg] not found
+[2014.11.10 15:29:05] [0000m.00s.040ms] [3] S: Config loaded
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] S: Project path [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database] on file system [NTFS]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] S: Project file (.prj) path [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\RockerBox_1_SiC780A_Rev01.prj] on file system [NTFS]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] S: Single-user mode (auto)
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] S: Event polling mode autodetection
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] S: Started up automatically by iCDB Client: DND-1285:gta:18444
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] S: Auto close mode
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] S: Database ID [95f1-7ccb-7ec1-5b39-33db-0648-3db0-6450-98c3-1da4-e213-909f]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] PathTranslator: BEGIN dumping
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] PathTranslator: Local -> global path prefix list
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] PathTranslator: [D:\install_D&D_2012.05.21_x64\My install\AD10] -> [\\DND-1285\AD10]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] PathTranslator: [D:\Projects\cad_libraries] -> [\\DND-1285\cad_libraries]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] PathTranslator: [D:\Share] -> [\\DND-1285\Share]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] PathTranslator: Global -> local path prefix list
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] PathTranslator: [\\DND-1285\cad_libraries] -> [D:\Projects\cad_libraries]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] PathTranslator: [\\DND-1285\Share] -> [D:\Share]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] PathTranslator: [\\DND-1285\AD10] -> [D:\install_D&D_2012.05.21_x64\My install\AD10]
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] PathTranslator: END dumping
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] S: START
+[2014.11.10 15:29:05] [0000m.00s.040ms] [0] S: Server startup lock file created
+[2014.11.10 15:29:05] [0000m.00s.050ms] [0] S: Listening for client connections on port [10000]
+[2014.11.10 15:29:05] [0000m.00s.050ms] [0] S: Server network ID [dnd-1285:10.35.49.85,169.254.188.47,192.168.59.1,dnd-1285:10000]
+[2014.11.10 15:29:05] [0000m.00s.050ms] [0] S: Server GUID [6090-7c18-a90b-2f43-1adb-0646-adb0-6450-50d3-1da4-e213-909f]
+[2014.11.10 15:29:05] [0000m.00s.050ms] [0] S: Project GUID [95f1-7ccb-7ec1-5b39-33db-0648-3db0-6450-98c3-1da4-e213-909f]
+[2014.11.10 15:29:05] [0000m.00s.050ms] [0] S: Wrote data to server address file
+[2014.11.10 15:29:05] [0000m.00s.050ms] [0] S: Server startup lock file removed
+[2014.11.10 15:29:05] [0000m.00s.050ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\RockerBox_1_SiC780A_Rev01.prj]
+[2014.11.10 15:29:05] [0000m.00s.070ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2014.11.10 15:29:05] [0000m.00s.070ms] [0] S: Local disc access time: 29 us
+[2014.11.10 15:29:05] [0000m.00s.070ms] [0] S: File server access time: 31 us
+[2014.11.10 15:29:05] [0000m.00s.070ms] [0] Single file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\icdb.dat] size [372912 (364.2 kB)]
+[2014.11.10 15:29:05] [0000m.00s.070ms] [1] Single file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\icdb.dat] opened in read-write mode
+[2014.11.10 15:29:05] [0000m.00s.070ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.11.10 15:29:05] [0000m.00s.070ms] [0] Database GUARD OK: [372912]
+[2014.11.10 15:29:05] [0000m.00s.070ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.11.10 15:29:05] [0000m.00s.070ms] [0] Database GUARD OK: [372912]
+[2014.11.10 15:29:05] [0000m.00s.070ms] [0] SingleFile: [5191-9fb8-9e95-4029] SFI version check [1009] [1009]
+[2014.11.10 15:29:05] [0000m.00s.070ms] [0] SingleFile: [5191-9fb8-9e95-4029] Database SFI header has been read in [3ms 766us]
+[2014.11.10 15:29:05] [0000m.00s.080ms] [0] iCDB Server PI: Server & plugin session [6]
+[2014.11.10 15:29:05] [0000m.00s.080ms] [0] iCDB Server PI: Opening database [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database]
+[2014.11.10 15:29:05] [0000m.00s.080ms] [0] iCDB Server PI: Database [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database] opened
+[2014.11.10 15:29:05] [0000m.00s.080ms] [0] iCDB Database: Checking existence of constraint definitions
+[2014.11.10 15:29:05] [0000m.00s.080ms] [0] iCDB Database: Checking constraint definitions version
+[2014.11.10 15:29:05] [0000m.00s.130ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=4234-e5c2-9dd9-0cfa-02f6-c545-2f6c-5450-d981-1da4-e213-909f] up to date
+[2014.11.10 15:29:05] [0000m.00s.390ms] [0] iCDB Server PI: Initializing plugins
+[2014.11.10 15:29:05] [0000m.00s.390ms] [0] iCDB Server PI: Plugins initialized
+[2014.11.10 15:29:05] [0000m.00s.390ms] [0] S: iCDB database loaded
+[2014.11.10 15:29:05] [0000m.00s.400ms] [0] S: Starting threads
+[2014.11.10 15:29:05] [0000m.00s.400ms] [0] BT: Listening for broadcast messages on port [10000]
+[2014.11.10 15:29:05] [0000m.00s.400ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2014.11.10 15:29:05] [0000m.00s.400ms] [0] IT: Session [7] for host [dnd-1285] user [gta] with process ID [18444] created
+[2014.11.10 15:29:05] [0000m.00s.400ms] [1] SC[7]: Registered sub-client [DxD] with ID [1] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:05] [0000m.00s.450ms] [1] SC[7]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:05] [0000m.00s.450ms] [1] SC[7]: Registered sub-client [xprob] with ID [3] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:05] [0000m.00s.500ms] [1] CMT: There are [1] clients now: 7
+[2014.11.10 15:29:05] [0000m.00s.510ms] [1] PrjBackupMgr: Successfully created Project Backup [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\ProjectBackup\backups\2014-11-10 15.29.05 - auto.zip] with GUID [658e-2aaa-acd5-91bd-1adb-0646-adb0-6450-15b3-1da4-e213-909f]
+[2014.11.10 15:29:05] [0000m.00s.510ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[658e-2aaa-acd5-91bd-1adb-0646-adb0-6450-15b3-1da4-e213-909f] CreationTime[Monday, November 10, 2014 13:29:05] Type[Autosave] Creator[iCDB Server (2014-11-10 15.29.05-19736)] ApplicationName[iCDB Server (2014-11-10 15.29.05-19736)] UserName[gta] MachineName[DND-1285] Description[Autosave] FullFlowName[PADS 9.5; PADS 9.5 Update 2] FlowId[PADS 9.5] GBSInstallId[27413; 39489] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\ProjectBackup\backups\2014-11-10 15.29.05 - auto.zip] BackupFileSize[295342] Persistent[FALSE]
+[2014.11.10 15:29:07] [0000m.02s.050ms] [1] SC[7]: Registered sub-client [SelectionHolder] with ID [4] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.060ms] [1] SC[7]: Registered sub-client [SymbolEditor] with ID [5] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.520ms] [1] SC[7]: Registered sub-client [HdlProject] with ID [6] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.530ms] [1] SC[7]: Registered sub-client [Navigator] with ID [7] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.540ms] [1] SC[7]: Registered sub-client [OutputWindow] with ID [8] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.540ms] [1] SC[7]: Registered sub-client [PlaceDevice] with ID [9] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.550ms] [1] SC[7]: Registered sub-client [SAE] with ID [10] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.570ms] [1] SC[7]: Registered sub-client [DxConstraints] with ID [11] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.570ms] [1] SC[7]: Registered sub-client [CCZAddin] with ID [12] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.570ms] [1] SC[7]: Registered sub-client [DxThumbnails] with ID [13] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.630ms] [1] SC[7]: Registered sub-client [SheetConnectorsCacheDxD:1415626147] with ID [14] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.650ms] [1] SC[7]: Registered sub-client [NetsNamesCollectorDxD:1415626147] with ID [15] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.660ms] [1] SC[7]: Registered sub-client [DxDbSearch] with ID [16] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.680ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [17] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:07] [0000m.02s.680ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [17] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:08] [0000m.02s.950ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [18] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:08] [0000m.02s.950ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [18] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:09] [0000m.03s.960ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [19] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:09] [0000m.03s.960ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [19] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:10] [0000m.04s.980ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [20] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:10] [0000m.04s.980ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [20] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:10] [0000m.04s.990ms] [0] IT: Session [8] for host [dnd-1285] user [gta] with process ID [21480] created
+[2014.11.10 15:29:10] [0000m.04s.990ms] [1] SC[8]: Registered sub-client [pcbui] with ID [1] for session ID [8] host [dnd-1285] user [gta] process ID [21480]
+[2014.11.10 15:29:10] [0000m.05s.000ms] [1] CMT: There are [2] clients now: 7, 8
+[2014.11.10 15:29:10] [0000m.05s.250ms] [0] IT: Session [9] for host [dnd-1285] user [gta] with process ID [20552] created
+[2014.11.10 15:29:10] [0000m.05s.250ms] [1] SC[9]: Registered sub-client [icdb2wir] with ID [1] for session ID [9] host [dnd-1285] user [gta] process ID [20552]
+[2014.11.10 15:29:10] [0000m.05s.300ms] [1] CMT: There are [3] clients now: 7, 8, 9
+[2014.11.10 15:29:10] [0000m.05s.560ms] [1] SC[9]: UnRegistered sub-client [icdb2wir] with ID [1] for session ID [9] host [dnd-1285] user [gta] process ID [20552]
+[2014.11.10 15:29:10] [0000m.05s.600ms] [1] CMT: Removed client [9]
+[2014.11.10 15:29:10] [0000m.05s.600ms] [1] CMT: There are [2] clients now: 7, 8
+[2014.11.10 15:29:11] [0000m.06s.000ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [21] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:11] [0000m.06s.000ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [21] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:12] [0000m.07s.000ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [22] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:12] [0000m.07s.000ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [22] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:12] [0000m.07s.720ms] [0] IT: Session [10] for host [dnd-1285] user [gta] with process ID [19992] created
+[2014.11.10 15:29:12] [0000m.07s.720ms] [1] SC[10]: Registered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [10] host [dnd-1285] user [gta] process ID [19992]
+[2014.11.10 15:29:13] [0000m.07s.800ms] [1] CMT: There are [3] clients now: 7, 8, 10
+[2014.11.10 15:29:13] [0000m.08s.040ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [23] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:13] [0000m.08s.040ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [23] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:14] [0000m.08s.800ms] [1] SC[10]: Registered sub-client [LSUDX_PCB] with ID [2] for session ID [10] host [dnd-1285] user [gta] process ID [19992]
+[2014.11.10 15:29:14] [0000m.08s.820ms] [1] SC[10]: Registered sub-client [ObjectHolder_70864424] with ID [3] for session ID [10] host [dnd-1285] user [gta] process ID [19992]
+[2014.11.10 15:29:14] [0000m.08s.820ms] [1] SC[10]: Registered sub-client [BlockCacheDxD:147258368] with ID [4] for session ID [10] host [dnd-1285] user [gta] process ID [19992]
+[2014.11.10 15:29:14] [0000m.08s.820ms] [1] SC[10]: Registered sub-client [GlobalNetAliasUpdater_70864600] with ID [5] for session ID [10] host [dnd-1285] user [gta] process ID [19992]
+[2014.11.10 15:29:14] [0000m.08s.820ms] [1] SC[10]: Registered sub-client [IcdbNetProcessorSubClientDxD:164542600] with ID [6] for session ID [10] host [dnd-1285] user [gta] process ID [19992]
+[2014.11.10 15:29:14] [0000m.09s.040ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [24] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:14] [0000m.09s.040ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [24] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:15] [0000m.10s.120ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [25] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:15] [0000m.10s.120ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [25] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:16] [0000m.11s.080ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [26] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:16] [0000m.11s.080ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [26] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:17] [0000m.12s.080ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [27] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:17] [0000m.12s.080ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [27] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:18] [0000m.13s.110ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [28] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:18] [0000m.13s.110ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [28] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:19] [0000m.14s.110ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [29] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:19] [0000m.14s.110ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [29] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:21] [0000m.16s.530ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [30] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:21] [0000m.16s.530ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [30] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:22] [0000m.17s.150ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [31] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:22] [0000m.17s.150ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [31] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:23] [0000m.18s.170ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [32] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:23] [0000m.18s.170ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [32] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:24] [0000m.19s.170ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [33] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:24] [0000m.19s.170ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [33] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:24] [0000m.19s.400ms] [0] DFAMT: File server access time: 37 us
+[2014.11.10 15:29:25] [0000m.20s.190ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [34] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:25] [0000m.20s.190ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [34] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:26] [0000m.21s.240ms] [1] SC[10]: UnRegistered sub-client [GlobalNetAliasUpdater_70864600] with ID [5] for session ID [10] host [dnd-1285] user [gta] process ID [19992]
+[2014.11.10 15:29:26] [0000m.21s.240ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [35] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:26] [0000m.21s.240ms] [1] SC[10]: UnRegistered sub-client [BlockCacheDxD:147258368] with ID [4] for session ID [10] host [dnd-1285] user [gta] process ID [19992]
+[2014.11.10 15:29:26] [0000m.21s.240ms] [1] SC[10]: UnRegistered sub-client [ObjectHolder_70864424] with ID [3] for session ID [10] host [dnd-1285] user [gta] process ID [19992]
+[2014.11.10 15:29:26] [0000m.21s.240ms] [1] SC[10]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:164542600] with ID [6] for session ID [10] host [dnd-1285] user [gta] process ID [19992]
+[2014.11.10 15:29:26] [0000m.21s.240ms] [1] SC[10]: UnRegistered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [10] host [dnd-1285] user [gta] process ID [19992]
+[2014.11.10 15:29:26] [0000m.21s.250ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [35] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:26] [0000m.21s.250ms] [1] SC[10]: UnRegistered sub-client [LSUDX_PCB] with ID [2] for session ID [10] host [dnd-1285] user [gta] process ID [19992]
+[2014.11.10 15:29:26] [0000m.21s.300ms] [1] CMT: Removed client [10]
+[2014.11.10 15:29:26] [0000m.21s.300ms] [1] CMT: There are [2] clients now: 7, 8
+[2014.11.10 15:29:27] [0000m.22s.060ms] [1] SC[8]: UnRegistered sub-client [pcbui] with ID [1] for session ID [8] host [dnd-1285] user [gta] process ID [21480]
+[2014.11.10 15:29:27] [0000m.22s.100ms] [1] CMT: Removed client [8]
+[2014.11.10 15:29:27] [0000m.22s.100ms] [1] CMT: There are [1] clients now: 7
+[2014.11.10 15:29:27] [0000m.22s.210ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [36] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:27] [0000m.22s.210ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [36] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:28] [0000m.23s.230ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [37] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:28] [0000m.23s.230ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [37] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:29] [0000m.24s.250ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [38] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:29] [0000m.24s.250ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [38] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:30] [0000m.25s.250ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [39] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:30] [0000m.25s.250ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [39] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:31] [0000m.26s.270ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [40] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:31] [0000m.26s.270ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [40] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:32] [0000m.27s.280ms] [1] SC[7]: Registered sub-client [LDD_ECO_IMPORT] with ID [41] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:32] [0000m.27s.280ms] [1] SC[7]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [41] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.900ms] [1] SC[7]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.900ms] [1] SC[7]: UnRegistered sub-client [SheetConnectorsCacheDxD:1415626147] with ID [14] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.900ms] [1] SC[7]: UnRegistered sub-client [NetsNamesCollectorDxD:1415626147] with ID [15] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.900ms] [1] SC[7]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.900ms] [1] SC[7]: UnRegistered sub-client [DxD] with ID [1] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.900ms] [1] SC[7]: UnRegistered sub-client [xprob] with ID [3] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.900ms] [1] SC[7]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.910ms] [1] SC[7]: UnRegistered sub-client [Navigator] with ID [7] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.910ms] [1] SC[7]: UnRegistered sub-client [OutputWindow] with ID [8] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.910ms] [1] SC[7]: UnRegistered sub-client [DxDbSearch] with ID [16] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.910ms] [1] SC[7]: UnRegistered sub-client [SAE] with ID [10] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.920ms] [1] SC[7]: UnRegistered sub-client [CCZAddin] with ID [12] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.920ms] [1] SC[7]: UnRegistered sub-client [DxThumbnails] with ID [13] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.27s.940ms] [1] SC[7]: UnRegistered sub-client [DxConstraints] with ID [11] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.28s.140ms] [1] SC[7]: UnRegistered sub-client [PlaceDevice] with ID [9] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.28s.160ms] [1] SC[7]: UnRegistered sub-client [HdlProject] with ID [6] for session ID [7] host [dnd-1285] user [gta] process ID [18444]
+[2014.11.10 15:29:33] [0000m.28s.200ms] [1] CMT: Removed client [7]
+[2014.11.10 15:29:33] [0000m.28s.200ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.11.10 15:29:35] [0000m.29s.800ms] [0] CMT: Starting server auto-close
+[2014.11.10 15:29:35] [0000m.29s.880ms] [0] S: Closing server
+[2014.11.10 15:29:35] [0000m.30s.030ms] [0] iCDB Server PI: Closing plugins
+[2014.11.10 15:29:35] [0000m.30s.030ms] [0] iCDB Server PI: Plugins closed
+[2014.11.10 15:29:35] [0000m.30s.030ms] [0] iCDB Server PI: Unloading database
+[2014.11.10 15:29:35] [0000m.30s.030ms] [0] iCDB Server PI: Saving storage
+[2014.11.10 15:29:35] [0000m.30s.030ms] [0] iCDB Server PI: Closing database
+[2014.11.10 15:29:35] [0000m.30s.080ms] [1] iCDB Server PI: Stats: Database defragmentation: max[5] avg[1] holes[46%] data[98%]
+[2014.11.10 15:29:35] [0000m.30s.080ms] [1] iCDB Server PI: Stats: Database file size [538752 (526.1 kB)]
+[2014.11.10 15:29:35] [0000m.30s.130ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2014.11.10 15:29:35] [0000m.30s.140ms] [0] iCDB Server PI: Database closed
+[2014.11.10 15:29:35] [0000m.30s.140ms] [0] iCDB Server PI: Defragmenting database
+[2014.11.10 15:29:35] [0000m.30s.140ms] [0] iCDB Server PI: Creating database [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database] backup to file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\cdbback\2014-11-10 15.29.35-19736-d.zip]
+[2014.11.10 15:29:35] [0000m.30s.160ms] [0] iCDB Server PI: Database backup: DONE
+[2014.11.10 15:29:35] [0000m.30s.260ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.11.10 15:29:35] [0000m.30s.260ms] [0] Database GUARD OK: [538752]
+[2014.11.10 15:29:35] [0000m.30s.260ms] [0] SingleFile: [5191-9fb8-9e95-4029] SFI version check [1009] [1009]
+[2014.11.10 15:29:35] [0000m.30s.260ms] [0] SingleFile: [5191-9fb8-9e95-4029] Database SFI header has been read in [4ms 382us]
+[2014.11.10 15:29:35] [0000m.30s.530ms] [1] iCDB Server PI: Stats: Database file sizes: before[538752 (526.1 kB)], after[377392 (368.5 kB)], gain[161360 (157.6 kB)]
+[2014.11.10 15:29:35] [0000m.30s.610ms] [0] Single file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\icdb.dat] closed with size [377392 (368.5 kB)]
+[2014.11.10 15:29:35] [0000m.30s.610ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2014.11.10 15:29:35] [0000m.30s.610ms] [1] BackupTransaction: Removing database backup [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\cdbback\2014-11-10 15.29.35-19736-d.zip]
+[2014.11.10 15:29:35] [0000m.30s.610ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [401896] ticks
+[2014.11.10 15:29:35] [0000m.30s.610ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [128604] microseconds
+[2014.11.10 15:29:35] [0000m.30s.610ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [1202]
+[2014.11.10 15:29:35] [0000m.30s.610ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [9346] commands per second
+[2014.11.10 15:29:36] [0000m.30s.800ms] [0] S: STOP

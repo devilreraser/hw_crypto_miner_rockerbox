@@ -1,0 +1,96 @@
+*PADS-ECO-V9.5-MILS*
+*REMARK*  old file: D:\Projects\AltiumProjects\RockerBox_Rev04\PADS\RockerBox_Rev04\ppcDBC5.asc
+*REMARK*  new file: D:\Projects\AltiumProjects\RockerBox_Rev04\PADS\RockerBox_Rev04\Block.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 17.10.2014 15:34:55
+
+PART DIFFERENCES
+----------------
+OLD DESIGN                                        NEW DESIGN
+Ref-des	Part-type:Decal                           Ref-des	Part-type:Decal
+<none>                                            R32   SMD_0603_RESC1608X55N:SMD_0603_RESC1608X55N
+<none>                                            R33   SMD_0603_RESC1608X55N:SMD_0603_RESC1608X55N
+<none>                                            R34   SMD_0603_RESC1608X55N:SMD_0603_RESC1608X55N
+
+NET DIFFERENCES
+----------------
+OLD DESIGN                                        NEW DESIGN
+$1I73\$1N2229                                     $1I73\$1N2313
+$1I73\$1N2230                                     $1I73\$1N2314
+$1I73\$1N2231                                     $1I73\$1N2315
+$1I73\$1N2232                                     $1I73\$1N2316
+$1I73\$1N2233                                     $1I73\$1N2317
+$1I73\$1N2234                                     $1I73\$1N2318
+$1I73\$1N2235                                     $1I73\$1N2319
+$1I73\$1N2236                                     $1I73\$1N2320
+$1I73\$1N2489                                     $1I73\$1N2573
+$1I73\$1N2490                                     $1I73\$1N2576
+$1I73\$1N2491                                     $1I73\$1N2574
+$1I73\$1N2492                                     $1I73\$1N2575
+
+SWAPPED GATE DIFFERENCES
+------------------------
+OLD DESIGN                                        NEW DESIGN
+
+SWAPPED PIN DIFFERENCES
+------------------------
+OLD DESIGN                                        NEW DESIGN
+
+
+UNMATCHED NET PINS IN OLD DESIGN
+--------------------------------
+
+UNMATCHED NET PINS IN NEW DESIGN
+--------------------------------
+$1I73\PLL_OSC_CLK_11 R32.1	
+$1I73\PLL_OSC_CLK_21 R33.1	R32.2	
+$1I73\PLL_OSC_CLK_31 R34.1	R33.2	
+$1I73\PLL_OSC_CLK_41 R34.2	
+
+ATTRIBUTE DIFFERENCES
+---------------------
+Attribute Level	[ OLD DESIGN Parent -> NEW DESIGN Parent ]
+
+          Attribute Name           Old Value                New Value
+PART    R18 -> R18
+          Value                    47K                      1K
+
+PART    R20 -> R20
+          Value                    47K                      1K
+
+PART    R21 -> R21
+          Value                    47K                      1K
+
+PART    R22 -> R22
+          Value                    47K                      1K
+
+PART    R23 -> R23
+          Value                    47K                      1K
+
+PART    R24 -> R24
+          Value                    47K                      1K
+
+PART    R27 -> R27
+          Value                    41.2K                    2K
+
+PART    R28 -> R28
+          Value                    30K                      10K
+
+PART    R29 -> R29
+          Value                    47K                      1K
+
+PART    R7 -> R7
+          Value                    47K                      1K
+
+PART    R8 -> R8
+          Value                    47K                      1K
+
+PART    D1 -> D1
+          Value                    KP-2012CGCK              KP-2012EC
+
+PART    D3 -> D3
+          Value                    KP-2012CGCK              17-21-Y2C-A0L1M2V0B-3T-AM
+
+PART    D4 -> D4
+          Value                    KP-2012CGCK              ORANGE
+
+

@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=Block.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Block.SchDoc|Designator=SMPS|SchDesignator=SMPS|FileName=SMPS.SchDoc|SymbolType=Normal|RawFileName=SMPS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Block.SchDoc|Designator=U_CPU_Logic|SchDesignator=U_CPU_Logic|FileName=CPU_Logic.SchDoc|SymbolType=Normal|RawFileName=CPU_Logic.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Block.SchDoc|Designator=U_CPU_Power|SchDesignator=U_CPU_Power|FileName=CPU_Power.SchDoc|SymbolType=Normal|RawFileName=CPU_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=Block.SchDoc

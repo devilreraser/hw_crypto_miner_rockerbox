@@ -1,0 +1,369 @@
+[2014.11.10 15:29:46] [0000m.00s.030ms] [0] WELCOME
+[2014.11.10 15:29:46] [0000m.00s.030ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2014.11.10 15:29:46] [0000m.00s.030ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2014.11.10 15:29:46] [0000m.00s.030ms] [1] Base flow version [7.9.4]
+[2014.11.10 15:29:46] [0000m.00s.030ms] [1] GBS Install Id [27413], Flow Id [PADS 9.5], Full Flow Name [PADS 9.5], Exact Access Date [Jun 1 2012]
+[2014.11.10 15:29:46] [0000m.00s.030ms] [1] UPDATE Install Info, GBS Install Id [39489], UPDATE Name [PADS 9.5 Update 2]
+[2014.11.10 15:29:46] [0000m.00s.030ms] [1] Machine [DND-1285]  User [gta]  PID [20800]
+[2014.11.10 15:29:46] [0000m.00s.030ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2014.11.10 15:29:46] [0000m.00s.030ms] [1] Current working dir [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01]
+[2014.11.10 15:29:46] [0000m.00s.030ms] [1] PATH [C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\lib;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\bin;C:\PROGRA~1\PTC\MKSTOO~1\bin64;C:\PROGRA~1\PTC\MKSTOO~1\bin;C:\PROGRA~1\PTC\MKSTOO~1\bin\X11;C:\PROGRA~1\PTC\MKSTOO~1\mksnt;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;c:\Program Files (x86)\Common Files\Roxio Shared\10.0\DLLShared\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\proeWildfire 5.0\bin;C:\Program Files\proeWildfire 5.0\mech\bin;C:\Program Files (x86)\SysinternalsSuite2012.05.14;C:\Program Files (x86)\Hewlett-Packard\HP Performance Advisor;C:\Cadence\SPB_16.5\OpenAccess\bin\win32\opt;C:\Cadence\SPB_16.5\tools\bin;C:\Cadence\SPB_16.5\tools\Capture;C:\Cadence\SPB_16.5\tools\PSpice\Library;C:\Cadence\SPB_16.5\tools\PSpice;C:\Cadence\SPB_16.5\tools\fet\bin;C:\Cadence\SPB_16.5\tools\specctra\bin;C:\Cadence\SPB_16.5\tools\pcb\bin;;C:\MentorGraphics\9.3.1PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.5PADS\SDD_HOME\wv\win32\bin]
+[2014.11.10 15:29:46] [0000m.00s.030ms] [1] SDD_HOME [C:\MentorGraphics\9.5PADS\SDD_HOME] on file system [NTFS]
+[2014.11.10 15:29:46] [0000m.00s.030ms] [1] SDD_PLATFORM [win32]
+[2014.11.10 15:29:46] [0000m.00s.030ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\9.5PADS\SDD_HOME\standard]
+[2014.11.10 15:29:46] [0000m.00s.030ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2014.11.10 15:29:46] [0000m.00s.030ms] [2] S: Loading config files
+[2014.11.10 15:29:46] [0000m.00s.040ms] [1] Config file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\cdbsvr\Server.cfg] not found
+[2014.11.10 15:29:46] [0000m.00s.040ms] [3] S: Config loaded
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] S: Project path [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database] on file system [NTFS]
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] S: Project file (.prj) path [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\RockerBox_1_SiC780A_Rev01.prj] on file system [NTFS]
+[2014.11.10 15:29:46] [0000m.00s.040ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] S: Single-user mode (auto)
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] S: Event polling mode autodetection
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] S: Started up automatically by iCDB Client: DND-1285:gta:19040
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] S: Auto close mode
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] S: Database ID [95f1-7ccb-7ec1-5b39-33db-0648-3db0-6450-98c3-1da4-e213-909f]
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] PathTranslator: BEGIN dumping
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] PathTranslator: Local -> global path prefix list
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] PathTranslator: [D:\install_D&D_2012.05.21_x64\My install\AD10] -> [\\DND-1285\AD10]
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] PathTranslator: [D:\Projects\cad_libraries] -> [\\DND-1285\cad_libraries]
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] PathTranslator: [D:\Share] -> [\\DND-1285\Share]
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] PathTranslator: Global -> local path prefix list
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] PathTranslator: [\\DND-1285\cad_libraries] -> [D:\Projects\cad_libraries]
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] PathTranslator: [\\DND-1285\Share] -> [D:\Share]
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] PathTranslator: [\\DND-1285\AD10] -> [D:\install_D&D_2012.05.21_x64\My install\AD10]
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] PathTranslator: END dumping
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] S: START
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] S: Server startup lock file created
+[2014.11.10 15:29:46] [0000m.00s.040ms] [0] S: Listening for client connections on port [10000]
+[2014.11.10 15:29:46] [0000m.00s.050ms] [0] S: Server network ID [dnd-1285:10.35.49.85,169.254.188.47,192.168.59.1,dnd-1285:10000]
+[2014.11.10 15:29:46] [0000m.00s.050ms] [0] S: Server GUID [0e83-9aa9-5212-ad07-acdb-064f-cdb0-6450-5da3-1da4-e213-909f]
+[2014.11.10 15:29:46] [0000m.00s.050ms] [0] S: Project GUID [95f1-7ccb-7ec1-5b39-33db-0648-3db0-6450-98c3-1da4-e213-909f]
+[2014.11.10 15:29:46] [0000m.00s.050ms] [0] S: Wrote data to server address file
+[2014.11.10 15:29:46] [0000m.00s.050ms] [0] S: Server startup lock file removed
+[2014.11.10 15:29:46] [0000m.00s.050ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\RockerBox_1_SiC780A_Rev01.prj]
+[2014.11.10 15:29:46] [0000m.00s.070ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2014.11.10 15:29:46] [0000m.00s.070ms] [0] S: Local disc access time: 30 us
+[2014.11.10 15:29:46] [0000m.00s.070ms] [0] S: File server access time: 30 us
+[2014.11.10 15:29:46] [0000m.00s.070ms] [0] Single file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\icdb.dat] size [377392 (368.5 kB)]
+[2014.11.10 15:29:46] [0000m.00s.070ms] [1] Single file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\icdb.dat] opened in read-write mode
+[2014.11.10 15:29:46] [0000m.00s.070ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.11.10 15:29:46] [0000m.00s.070ms] [0] Database GUARD OK: [377392]
+[2014.11.10 15:29:46] [0000m.00s.070ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.11.10 15:29:46] [0000m.00s.070ms] [0] Database GUARD OK: [377392]
+[2014.11.10 15:29:46] [0000m.00s.070ms] [0] SingleFile: [5191-9fb8-9e95-4029] SFI version check [1009] [1009]
+[2014.11.10 15:29:46] [0000m.00s.070ms] [0] SingleFile: [5191-9fb8-9e95-4029] Database SFI header has been read in [3ms 924us]
+[2014.11.10 15:29:46] [0000m.00s.080ms] [0] iCDB Server PI: Server & plugin session [11]
+[2014.11.10 15:29:46] [0000m.00s.080ms] [0] iCDB Server PI: Opening database [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database]
+[2014.11.10 15:29:46] [0000m.00s.080ms] [0] iCDB Server PI: Database [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database] opened
+[2014.11.10 15:29:46] [0000m.00s.080ms] [0] iCDB Database: Checking existence of constraint definitions
+[2014.11.10 15:29:46] [0000m.00s.080ms] [0] iCDB Database: Checking constraint definitions version
+[2014.11.10 15:29:46] [0000m.00s.130ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=4234-e5c2-9dd9-0cfa-02f6-c545-2f6c-5450-d981-1da4-e213-909f] up to date
+[2014.11.10 15:29:47] [0000m.00s.400ms] [0] iCDB Server PI: Initializing plugins
+[2014.11.10 15:29:47] [0000m.00s.400ms] [0] iCDB Server PI: Plugins initialized
+[2014.11.10 15:29:47] [0000m.00s.400ms] [0] S: iCDB database loaded
+[2014.11.10 15:29:47] [0000m.00s.400ms] [0] S: Starting threads
+[2014.11.10 15:29:47] [0000m.00s.400ms] [0] BT: Listening for broadcast messages on port [10000]
+[2014.11.10 15:29:47] [0000m.00s.400ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2014.11.10 15:29:47] [0000m.00s.400ms] [0] IT: Session [12] for host [dnd-1285] user [gta] with process ID [19040] created
+[2014.11.10 15:29:47] [0000m.00s.400ms] [1] SC[12]: Registered sub-client [DxD] with ID [1] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:47] [0000m.00s.450ms] [1] SC[12]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:47] [0000m.00s.450ms] [1] SC[12]: Registered sub-client [xprob] with ID [3] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:47] [0000m.00s.500ms] [1] CMT: There are [1] clients now: 12
+[2014.11.10 15:29:48] [0000m.02s.050ms] [1] SC[12]: Registered sub-client [SelectionHolder] with ID [4] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:48] [0000m.02s.060ms] [1] SC[12]: Registered sub-client [SymbolEditor] with ID [5] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.550ms] [1] SC[12]: Registered sub-client [HdlProject] with ID [6] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.560ms] [1] SC[12]: Registered sub-client [Navigator] with ID [7] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.570ms] [1] SC[12]: Registered sub-client [OutputWindow] with ID [8] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.570ms] [1] SC[12]: Registered sub-client [PlaceDevice] with ID [9] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.580ms] [1] SC[12]: Registered sub-client [SAE] with ID [10] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.600ms] [1] SC[12]: Registered sub-client [DxConstraints] with ID [11] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.600ms] [1] SC[12]: Registered sub-client [CCZAddin] with ID [12] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.600ms] [1] SC[12]: Registered sub-client [DxThumbnails] with ID [13] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.690ms] [1] SC[12]: Registered sub-client [SheetConnectorsCacheDxD:1415626189] with ID [14] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.720ms] [1] SC[12]: Registered sub-client [NetsNamesCollectorDxD:1415626189] with ID [15] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.720ms] [1] SC[12]: Registered sub-client [DxDbSearch] with ID [16] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.740ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [17] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.740ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [17] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.02s.770ms] [0] IT: Session [13] for host [dnd-1285] user [gta] with process ID [19268] created
+[2014.11.10 15:29:49] [0000m.02s.770ms] [1] SC[13]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [13] host [dnd-1285] user [gta] process ID [19268]
+[2014.11.10 15:29:49] [0000m.02s.800ms] [1] CMT: There are [2] clients now: 12, 13
+[2014.11.10 15:29:49] [0000m.02s.870ms] [1] SC[13]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [13] host [dnd-1285] user [gta] process ID [19268]
+[2014.11.10 15:29:49] [0000m.02s.900ms] [1] CMT: Removed client [13]
+[2014.11.10 15:29:49] [0000m.02s.900ms] [1] CMT: There are [1] clients now: 12
+[2014.11.10 15:29:49] [0000m.03s.180ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [18] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:49] [0000m.03s.180ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [18] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:50] [0000m.04s.200ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [19] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:50] [0000m.04s.200ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [19] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:51] [0000m.05s.210ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [20] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:51] [0000m.05s.210ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [20] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:52] [0000m.06s.220ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [21] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:52] [0000m.06s.220ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [21] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:53] [0000m.07s.240ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [22] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:53] [0000m.07s.240ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [22] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:54] [0000m.08s.250ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [23] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:54] [0000m.08s.250ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [23] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:56] [0000m.09s.270ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [24] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:56] [0000m.09s.270ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [24] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:57] [0000m.10s.280ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [25] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:57] [0000m.10s.280ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [25] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:58] [0000m.11s.290ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [26] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:58] [0000m.11s.290ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [26] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:59] [0000m.12s.310ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [27] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:29:59] [0000m.12s.310ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [27] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:00] [0000m.13s.320ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [28] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:00] [0000m.13s.320ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [28] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:01] [0000m.14s.340ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [29] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:01] [0000m.14s.340ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [29] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:02] [0000m.15s.290ms] [1] SC[12]: Registered sub-client [ObjectHolder_232840472] with ID [30] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:02] [0000m.15s.290ms] [1] SC[12]: Registered sub-client [BlockCacheDxD:159967120] with ID [31] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:02] [0000m.15s.290ms] [1] SC[12]: Registered sub-client [GlobalNetAliasUpdater_232840648] with ID [32] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:02] [0000m.15s.290ms] [1] SC[12]: Registered sub-client [IcdbNetProcessorSubClientDxD:159219744] with ID [33] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:02] [0000m.15s.530ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [34] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:02] [0000m.15s.530ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [34] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:03] [0000m.16s.360ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [35] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:03] [0000m.16s.360ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [35] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:04] [0000m.17s.380ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [36] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:04] [0000m.17s.380ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [36] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:05] [0000m.18s.270ms] [0] IT: Session [14] for host [dnd-1285] user [gta] with process ID [19268] created
+[2014.11.10 15:30:05] [0000m.18s.270ms] [1] SC[14]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [14] host [dnd-1285] user [gta] process ID [19268]
+[2014.11.10 15:30:05] [0000m.18s.300ms] [1] CMT: There are [2] clients now: 12, 14
+[2014.11.10 15:30:05] [0000m.18s.390ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [37] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:05] [0000m.18s.390ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [37] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:05] [0000m.18s.420ms] [0] IT: Session [15] for host [dnd-1285] user [gta] with process ID [20220] created
+[2014.11.10 15:30:05] [0000m.18s.420ms] [1] SC[15]: Registered sub-client [icdb2wir] with ID [1] for session ID [15] host [dnd-1285] user [gta] process ID [20220]
+[2014.11.10 15:30:05] [0000m.18s.500ms] [1] CMT: There are [3] clients now: 12, 14, 15
+[2014.11.10 15:30:05] [0000m.18s.740ms] [1] SC[15]: UnRegistered sub-client [icdb2wir] with ID [1] for session ID [15] host [dnd-1285] user [gta] process ID [20220]
+[2014.11.10 15:30:05] [0000m.18s.800ms] [1] CMT: Removed client [15]
+[2014.11.10 15:30:05] [0000m.18s.800ms] [1] CMT: There are [2] clients now: 12, 14
+[2014.11.10 15:30:06] [0000m.19s.400ms] [0] DFAMT: File server access time: 35 us
+[2014.11.10 15:30:06] [0000m.19s.410ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [38] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:06] [0000m.19s.410ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [38] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:07] [0000m.20s.410ms] [0] IT: Session [16] for host [dnd-1285] user [gta] with process ID [21360] created
+[2014.11.10 15:30:07] [0000m.20s.410ms] [1] SC[16]: Registered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [16] host [dnd-1285] user [gta] process ID [21360]
+[2014.11.10 15:30:07] [0000m.20s.420ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [39] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:07] [0000m.20s.420ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [39] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:07] [0000m.20s.500ms] [1] CMT: There are [3] clients now: 12, 14, 16
+[2014.11.10 15:30:08] [0000m.21s.430ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [40] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:08] [0000m.21s.430ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [40] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:08] [0000m.21s.480ms] [1] SC[16]: Registered sub-client [LSUDX_PCB] with ID [2] for session ID [16] host [dnd-1285] user [gta] process ID [21360]
+[2014.11.10 15:30:08] [0000m.21s.500ms] [1] SC[16]: Registered sub-client [ObjectHolder_158191104] with ID [3] for session ID [16] host [dnd-1285] user [gta] process ID [21360]
+[2014.11.10 15:30:08] [0000m.21s.500ms] [1] SC[16]: Registered sub-client [BlockCacheDxD:158322904] with ID [4] for session ID [16] host [dnd-1285] user [gta] process ID [21360]
+[2014.11.10 15:30:08] [0000m.21s.500ms] [1] SC[16]: Registered sub-client [GlobalNetAliasUpdater_158190928] with ID [5] for session ID [16] host [dnd-1285] user [gta] process ID [21360]
+[2014.11.10 15:30:08] [0000m.21s.500ms] [1] SC[16]: Registered sub-client [IcdbNetProcessorSubClientDxD:169926496] with ID [6] for session ID [16] host [dnd-1285] user [gta] process ID [21360]
+[2014.11.10 15:30:08] [0000m.22s.020ms] [1] SC[16]: UnRegistered sub-client [GlobalNetAliasUpdater_158190928] with ID [5] for session ID [16] host [dnd-1285] user [gta] process ID [21360]
+[2014.11.10 15:30:08] [0000m.22s.020ms] [1] SC[16]: UnRegistered sub-client [BlockCacheDxD:158322904] with ID [4] for session ID [16] host [dnd-1285] user [gta] process ID [21360]
+[2014.11.10 15:30:08] [0000m.22s.020ms] [1] SC[16]: UnRegistered sub-client [ObjectHolder_158191104] with ID [3] for session ID [16] host [dnd-1285] user [gta] process ID [21360]
+[2014.11.10 15:30:08] [0000m.22s.020ms] [1] SC[16]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:169926496] with ID [6] for session ID [16] host [dnd-1285] user [gta] process ID [21360]
+[2014.11.10 15:30:08] [0000m.22s.020ms] [1] SC[16]: UnRegistered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [16] host [dnd-1285] user [gta] process ID [21360]
+[2014.11.10 15:30:08] [0000m.22s.030ms] [1] SC[16]: UnRegistered sub-client [LSUDX_PCB] with ID [2] for session ID [16] host [dnd-1285] user [gta] process ID [21360]
+[2014.11.10 15:30:08] [0000m.22s.100ms] [1] CMT: Removed client [16]
+[2014.11.10 15:30:08] [0000m.22s.100ms] [1] CMT: There are [2] clients now: 12, 14
+[2014.11.10 15:30:09] [0000m.22s.440ms] [1] SC[12]: UnRegistered sub-client [GlobalNetAliasUpdater_232840648] with ID [32] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:09] [0000m.22s.440ms] [1] SC[12]: UnRegistered sub-client [BlockCacheDxD:159967120] with ID [31] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:09] [0000m.22s.440ms] [1] SC[12]: UnRegistered sub-client [ObjectHolder_232840472] with ID [30] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:09] [0000m.22s.440ms] [1] SC[12]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:159219744] with ID [33] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:09] [0000m.22s.440ms] [1] SC[12]: Registered sub-client [ObjectHolder_232840472] with ID [41] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:09] [0000m.22s.440ms] [1] SC[12]: Registered sub-client [BlockCacheDxD:159964528] with ID [42] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:09] [0000m.22s.450ms] [1] SC[12]: Registered sub-client [GlobalNetAliasUpdater_232840648] with ID [43] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:09] [0000m.22s.450ms] [1] SC[12]: Registered sub-client [IcdbNetProcessorSubClientDxD:159219520] with ID [44] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:09] [0000m.22s.470ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [45] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:09] [0000m.22s.470ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [45] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:09] [0000m.22s.530ms] [1] SC[14]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [14] host [dnd-1285] user [gta] process ID [19268]
+[2014.11.10 15:30:09] [0000m.22s.600ms] [1] CMT: Removed client [14]
+[2014.11.10 15:30:09] [0000m.22s.600ms] [1] CMT: There are [1] clients now: 12
+[2014.11.10 15:30:09] [0000m.22s.800ms] [0] IT: Session [17] for host [dnd-1285] user [gta] with process ID [19268] created
+[2014.11.10 15:30:09] [0000m.22s.810ms] [1] SC[17]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [17] host [dnd-1285] user [gta] process ID [19268]
+[2014.11.10 15:30:09] [0000m.22s.900ms] [1] CMT: There are [2] clients now: 12, 17
+[2014.11.10 15:30:09] [0000m.22s.930ms] [1] SC[17]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [17] host [dnd-1285] user [gta] process ID [19268]
+[2014.11.10 15:30:09] [0000m.23s.000ms] [1] CMT: Removed client [17]
+[2014.11.10 15:30:09] [0000m.23s.000ms] [1] CMT: There are [1] clients now: 12
+[2014.11.10 15:30:10] [0000m.23s.460ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [46] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:10] [0000m.23s.460ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [46] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:11] [0000m.24s.480ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [47] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:11] [0000m.24s.480ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [47] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:12] [0000m.25s.490ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [48] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:12] [0000m.25s.490ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [48] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:13] [0000m.26s.500ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [49] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:13] [0000m.26s.500ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [49] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:14] [0000m.27s.520ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [50] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:14] [0000m.27s.520ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [50] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:15] [0000m.28s.530ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [51] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:15] [0000m.28s.530ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [51] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:16] [0000m.29s.550ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [52] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:16] [0000m.29s.550ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [52] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:17] [0000m.30s.560ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [53] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:17] [0000m.30s.560ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [53] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:18] [0000m.31s.570ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [54] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:18] [0000m.31s.570ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [54] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:19] [0000m.32s.590ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [55] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:19] [0000m.32s.590ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [55] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:20] [0000m.33s.600ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [56] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:20] [0000m.33s.600ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [56] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:21] [0000m.34s.620ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [57] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:21] [0000m.34s.620ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [57] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:22] [0000m.35s.630ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [58] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:22] [0000m.35s.630ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [58] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:23] [0000m.36s.640ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [59] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:23] [0000m.36s.640ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [59] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:24] [0000m.37s.660ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [60] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:24] [0000m.37s.660ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [60] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:25] [0000m.38s.670ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [61] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:25] [0000m.38s.670ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [61] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:26] [0000m.39s.690ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [62] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:26] [0000m.39s.690ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [62] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:27] [0000m.40s.700ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [63] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:27] [0000m.40s.700ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [63] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:28] [0000m.41s.710ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [64] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:28] [0000m.41s.710ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [64] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:29] [0000m.42s.750ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [65] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:29] [0000m.42s.750ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [65] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:30] [0000m.43s.370ms] [0] IT: Session [18] for host [dnd-1285] user [gta] with process ID [18660] created
+[2014.11.10 15:30:30] [0000m.43s.370ms] [1] SC[18]: Registered sub-client [pcbui] with ID [1] for session ID [18] host [dnd-1285] user [gta] process ID [18660]
+[2014.11.10 15:30:30] [0000m.43s.400ms] [1] CMT: There are [2] clients now: 12, 18
+[2014.11.10 15:30:30] [0000m.43s.490ms] [0] IT: Session [19] for host [dnd-1285] user [gta] with process ID [20368] created
+[2014.11.10 15:30:30] [0000m.43s.490ms] [1] SC[19]: Registered sub-client [icdb2wir] with ID [1] for session ID [19] host [dnd-1285] user [gta] process ID [20368]
+[2014.11.10 15:30:30] [0000m.43s.500ms] [1] CMT: There are [3] clients now: 12, 18, 19
+[2014.11.10 15:30:30] [0000m.43s.750ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [66] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:30] [0000m.43s.750ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [66] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:30] [0000m.43s.800ms] [1] SC[19]: UnRegistered sub-client [icdb2wir] with ID [1] for session ID [19] host [dnd-1285] user [gta] process ID [20368]
+[2014.11.10 15:30:30] [0000m.43s.900ms] [1] CMT: Removed client [19]
+[2014.11.10 15:30:30] [0000m.43s.900ms] [1] CMT: There are [2] clients now: 12, 18
+[2014.11.10 15:30:31] [0000m.44s.770ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [67] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:31] [0000m.44s.770ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [67] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:32] [0000m.45s.790ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [68] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:32] [0000m.45s.790ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [68] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:32] [0000m.45s.950ms] [0] IT: Session [20] for host [dnd-1285] user [gta] with process ID [21252] created
+[2014.11.10 15:30:32] [0000m.45s.950ms] [1] SC[20]: Registered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [20] host [dnd-1285] user [gta] process ID [21252]
+[2014.11.10 15:30:32] [0000m.46s.000ms] [1] CMT: There are [3] clients now: 12, 18, 20
+[2014.11.10 15:30:33] [0000m.46s.790ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [69] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:33] [0000m.46s.790ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [69] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:33] [0000m.47s.010ms] [1] SC[20]: Registered sub-client [LSUDX_PCB] with ID [2] for session ID [20] host [dnd-1285] user [gta] process ID [21252]
+[2014.11.10 15:30:33] [0000m.47s.030ms] [1] SC[20]: Registered sub-client [ObjectHolder_71056304] with ID [3] for session ID [20] host [dnd-1285] user [gta] process ID [21252]
+[2014.11.10 15:30:33] [0000m.47s.030ms] [1] SC[20]: Registered sub-client [BlockCacheDxD:159221504] with ID [4] for session ID [20] host [dnd-1285] user [gta] process ID [21252]
+[2014.11.10 15:30:33] [0000m.47s.030ms] [1] SC[20]: Registered sub-client [GlobalNetAliasUpdater_71056480] with ID [5] for session ID [20] host [dnd-1285] user [gta] process ID [21252]
+[2014.11.10 15:30:33] [0000m.47s.030ms] [1] SC[20]: Registered sub-client [IcdbNetProcessorSubClientDxD:170692432] with ID [6] for session ID [20] host [dnd-1285] user [gta] process ID [21252]
+[2014.11.10 15:30:34] [0000m.47s.570ms] [1] SC[20]: UnRegistered sub-client [GlobalNetAliasUpdater_71056480] with ID [5] for session ID [20] host [dnd-1285] user [gta] process ID [21252]
+[2014.11.10 15:30:34] [0000m.47s.570ms] [1] SC[20]: UnRegistered sub-client [BlockCacheDxD:159221504] with ID [4] for session ID [20] host [dnd-1285] user [gta] process ID [21252]
+[2014.11.10 15:30:34] [0000m.47s.570ms] [1] SC[20]: UnRegistered sub-client [ObjectHolder_71056304] with ID [3] for session ID [20] host [dnd-1285] user [gta] process ID [21252]
+[2014.11.10 15:30:34] [0000m.47s.570ms] [1] SC[20]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:170692432] with ID [6] for session ID [20] host [dnd-1285] user [gta] process ID [21252]
+[2014.11.10 15:30:34] [0000m.47s.570ms] [1] SC[20]: UnRegistered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [20] host [dnd-1285] user [gta] process ID [21252]
+[2014.11.10 15:30:34] [0000m.47s.580ms] [1] SC[20]: UnRegistered sub-client [LSUDX_PCB] with ID [2] for session ID [20] host [dnd-1285] user [gta] process ID [21252]
+[2014.11.10 15:30:34] [0000m.47s.600ms] [1] CMT: Removed client [20]
+[2014.11.10 15:30:34] [0000m.47s.600ms] [1] CMT: There are [2] clients now: 12, 18
+[2014.11.10 15:30:34] [0000m.47s.810ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [70] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:34] [0000m.47s.810ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [70] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:34] [0000m.48s.100ms] [1] SC[12]: UnRegistered sub-client [GlobalNetAliasUpdater_232840648] with ID [43] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:34] [0000m.48s.100ms] [1] SC[12]: UnRegistered sub-client [BlockCacheDxD:159964528] with ID [42] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:34] [0000m.48s.100ms] [1] SC[12]: UnRegistered sub-client [ObjectHolder_232840472] with ID [41] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:34] [0000m.48s.100ms] [1] SC[12]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:159219520] with ID [44] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:34] [0000m.48s.100ms] [1] SC[12]: Registered sub-client [ObjectHolder_232840472] with ID [71] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:34] [0000m.48s.100ms] [1] SC[12]: Registered sub-client [BlockCacheDxD:159965320] with ID [72] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:34] [0000m.48s.110ms] [1] SC[12]: Registered sub-client [GlobalNetAliasUpdater_232840648] with ID [73] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:34] [0000m.48s.110ms] [1] SC[12]: Registered sub-client [IcdbNetProcessorSubClientDxD:159220248] with ID [74] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:35] [0000m.48s.350ms] [1] SC[18]: UnRegistered sub-client [pcbui] with ID [1] for session ID [18] host [dnd-1285] user [gta] process ID [18660]
+[2014.11.10 15:30:35] [0000m.48s.400ms] [1] CMT: Removed client [18]
+[2014.11.10 15:30:35] [0000m.48s.400ms] [1] CMT: There are [1] clients now: 12
+[2014.11.10 15:30:35] [0000m.48s.810ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [75] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:35] [0000m.48s.810ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [75] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:36] [0000m.49s.830ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [76] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:36] [0000m.49s.830ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [76] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:37] [0000m.50s.850ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [77] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:37] [0000m.50s.850ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [77] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:38] [0000m.51s.850ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [78] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:38] [0000m.51s.850ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [78] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:39] [0000m.52s.870ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [79] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:39] [0000m.52s.870ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [79] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:40] [0000m.53s.890ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [80] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:40] [0000m.53s.890ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [80] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:41] [0000m.54s.910ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [81] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:41] [0000m.54s.910ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [81] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:42] [0000m.55s.930ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [82] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:42] [0000m.55s.930ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [82] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:43] [0000m.56s.930ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [83] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:43] [0000m.56s.930ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [83] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:44] [0000m.57s.950ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [84] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:44] [0000m.57s.950ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [84] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:45] [0000m.58s.950ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [85] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:45] [0000m.58s.950ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [85] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:46] [0000m.59s.990ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [86] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:46] [0000m.59s.990ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [86] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:47] [0001m.00s.990ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [87] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:47] [0001m.00s.990ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [87] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:48] [0001m.01s.990ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [88] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:48] [0001m.01s.990ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [88] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:49] [0001m.03s.010ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [89] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:49] [0001m.03s.010ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [89] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:50] [0001m.04s.020ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [90] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:50] [0001m.04s.020ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [90] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:51] [0001m.05s.040ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [91] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:51] [0001m.05s.040ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [91] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:52] [0001m.06s.050ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [92] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:52] [0001m.06s.050ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [92] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:53] [0001m.07s.060ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [93] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:53] [0001m.07s.060ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [93] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:54] [0001m.08s.080ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [94] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:54] [0001m.08s.080ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [94] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:55] [0001m.09s.090ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [95] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:55] [0001m.09s.090ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [95] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:56] [0001m.10s.110ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [96] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:56] [0001m.10s.110ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [96] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:57] [0001m.11s.120ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [97] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:57] [0001m.11s.120ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [97] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:58] [0001m.12s.130ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [98] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:58] [0001m.12s.130ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [98] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:59] [0001m.13s.150ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [99] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:30:59] [0001m.13s.150ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [99] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:00] [0001m.14s.160ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [100] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:00] [0001m.14s.160ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [100] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:01] [0001m.15s.180ms] [1] SC[12]: Registered sub-client [LDD_ECO_IMPORT] with ID [101] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:01] [0001m.15s.180ms] [1] SC[12]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [101] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.130ms] [1] SC[12]: UnRegistered sub-client [GlobalNetAliasUpdater_232840648] with ID [73] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.130ms] [1] SC[12]: UnRegistered sub-client [BlockCacheDxD:159965320] with ID [72] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.130ms] [1] SC[12]: UnRegistered sub-client [ObjectHolder_232840472] with ID [71] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.130ms] [1] SC[12]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:159220248] with ID [74] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.130ms] [1] SC[12]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.130ms] [1] SC[12]: UnRegistered sub-client [SheetConnectorsCacheDxD:1415626189] with ID [14] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.130ms] [1] SC[12]: UnRegistered sub-client [NetsNamesCollectorDxD:1415626189] with ID [15] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.130ms] [1] SC[12]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.130ms] [1] SC[12]: UnRegistered sub-client [DxD] with ID [1] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.140ms] [1] SC[12]: UnRegistered sub-client [xprob] with ID [3] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.140ms] [1] SC[12]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.140ms] [1] SC[12]: UnRegistered sub-client [Navigator] with ID [7] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.140ms] [1] SC[12]: UnRegistered sub-client [OutputWindow] with ID [8] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.140ms] [1] SC[12]: UnRegistered sub-client [DxDbSearch] with ID [16] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.150ms] [1] SC[12]: UnRegistered sub-client [SAE] with ID [10] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.150ms] [1] SC[12]: UnRegistered sub-client [CCZAddin] with ID [12] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.150ms] [1] SC[12]: UnRegistered sub-client [DxThumbnails] with ID [13] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:02] [0001m.16s.170ms] [1] SC[12]: UnRegistered sub-client [DxConstraints] with ID [11] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:03] [0001m.16s.370ms] [1] SC[12]: UnRegistered sub-client [PlaceDevice] with ID [9] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:03] [0001m.16s.390ms] [1] SC[12]: UnRegistered sub-client [HdlProject] with ID [6] for session ID [12] host [dnd-1285] user [gta] process ID [19040]
+[2014.11.10 15:31:03] [0001m.16s.400ms] [1] CMT: Removed client [12]
+[2014.11.10 15:31:03] [0001m.16s.400ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.11.10 15:31:05] [0001m.18s.302ms] [0] CMT: Starting server auto-close
+[2014.11.10 15:31:05] [0001m.18s.382ms] [0] S: Closing server
+[2014.11.10 15:31:05] [0001m.18s.532ms] [0] iCDB Server PI: Closing plugins
+[2014.11.10 15:31:05] [0001m.18s.532ms] [0] iCDB Server PI: Plugins closed
+[2014.11.10 15:31:05] [0001m.18s.532ms] [0] iCDB Server PI: Unloading database
+[2014.11.10 15:31:05] [0001m.18s.532ms] [0] iCDB Server PI: Saving storage
+[2014.11.10 15:31:05] [0001m.18s.532ms] [0] iCDB Server PI: Closing database
+[2014.11.10 15:31:05] [0001m.18s.562ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[37%] data[99%]
+[2014.11.10 15:31:05] [0001m.18s.562ms] [1] iCDB Server PI: Stats: Database file size [506256 (494.4 kB)]
+[2014.11.10 15:31:05] [0001m.18s.612ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2014.11.10 15:31:05] [0001m.18s.622ms] [0] iCDB Server PI: Database closed
+[2014.11.10 15:31:05] [0001m.18s.622ms] [0] iCDB Server PI: Defragmenting database
+[2014.11.10 15:31:05] [0001m.18s.622ms] [0] iCDB Server PI: Creating database [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database] backup to file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\cdbback\2014-11-10 15.31.05-20800-d.zip]
+[2014.11.10 15:31:05] [0001m.18s.642ms] [0] iCDB Server PI: Database backup: DONE
+[2014.11.10 15:31:05] [0001m.18s.752ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.11.10 15:31:05] [0001m.18s.752ms] [0] Database GUARD OK: [506256]
+[2014.11.10 15:31:05] [0001m.18s.752ms] [0] SingleFile: [5191-9fb8-9e95-4029] SFI version check [1009] [1009]
+[2014.11.10 15:31:05] [0001m.18s.762ms] [0] SingleFile: [5191-9fb8-9e95-4029] Database SFI header has been read in [4ms 368us]
+[2014.11.10 15:31:05] [0001m.19s.012ms] [1] iCDB Server PI: Stats: Database file sizes: before[506256 (494.4 kB)], after[377392 (368.5 kB)], gain[128864 (125.8 kB)]
+[2014.11.10 15:31:05] [0001m.19s.072ms] [0] Single file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\icdb.dat] closed with size [377392 (368.5 kB)]
+[2014.11.10 15:31:05] [0001m.19s.072ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2014.11.10 15:31:05] [0001m.19s.072ms] [1] BackupTransaction: Removing database backup [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\cdbback\2014-11-10 15.31.05-20800-d.zip]
+[2014.11.10 15:31:05] [0001m.19s.072ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [4387] ticks
+[2014.11.10 15:31:05] [0001m.19s.072ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1403] microseconds
+[2014.11.10 15:31:05] [0001m.19s.072ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [54]
+[2014.11.10 15:31:05] [0001m.19s.072ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [38466] commands per second
+[2014.11.10 15:31:05] [0001m.19s.202ms] [0] S: STOP

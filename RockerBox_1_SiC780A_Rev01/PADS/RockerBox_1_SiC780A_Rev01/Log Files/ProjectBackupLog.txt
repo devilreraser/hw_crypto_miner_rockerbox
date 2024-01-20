@@ -1,0 +1,6 @@
+[2014-11-10 15.27.15] -------------------- CREATE --------------------
+[2014-11-10 15.27.15] Creating Project Backup infrastructure for project [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\RockerBox_1_SiC780A_Rev01.prj].
+[2014-11-10 15.27.15] Successfully created [AutoSave] backup [2014-11-10 15.27.15 - auto.zip] requested by [DND-1285:gta].
+[2014-11-10 15.29.05] -------------------- CREATE --------------------
+[2014-11-10 15.29.05] Creating Project Backup infrastructure for project [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\RockerBox_1_SiC780A_Rev01.prj].
+[2014-11-10 15.29.05] Successfully created [AutoSave] backup [2014-11-10 15.29.05 - auto.zip] requested by [DND-1285:gta].

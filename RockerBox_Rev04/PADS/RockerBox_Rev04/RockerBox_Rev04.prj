@@ -1,0 +1,45 @@
+SECTION DesignInfo
+LIST IndependentLibraries
+VALUE "DIR [W] . (RockerBox_Rev04)"
+ENDLIST
+KEY CentralLibrary ""
+KEY PinComponents "./speccomp.ini"
+KEY BorderSymbols "./borders.ini"
+KEY Bus_Contents "./busconts.ini"
+KEY FrontEndSnapshot "DxD"
+KEY LayoutID "PADS95"
+KEY PcbCfgFileName "%SDD_HOME%/standard/pads95.cfg"
+KEY CnsFileName "%SDD_HOME%/standard/isis/pads95.cns"
+KEY SheetsEditMode "1"
+KEY DxD_Version "7.9.4"
+ENDSECTION
+SECTION iCDB
+LIST Designs
+VALUE "Board"
+ENDLIST
+KEY iCDBDir ".\database"
+KEY DedicatedServerName ""
+ENDSECTION
+SECTION FlowSettings
+KEY FlowType "NETLIST"
+ENDSECTION
+SECTION Template_Design
+KEY ConfigType "PCB"
+KEY SearchPathScheme "(Default)"
+KEY SchematicDesignBackAnno "0"
+KEY SchematicDesignStatus "0"
+KEY CADBackAnno "0"
+KEY SchematicConflict "FE"
+ENDSECTION
+SECTION ICXProInfo
+KEY ICXProDir "ICXPro"
+ENDSECTION
+SECTION Board
+KEY ConfigType "PCB"
+KEY SearchPathScheme "(Default)"
+KEY SchematicDesignBackAnno "0"
+KEY SchematicDesignStatus "0"
+KEY CADBackAnno "0"
+KEY SchematicConflict "FE"
+KEY RootBlock "Block"
+ENDSECTION

@@ -1,0 +1,3 @@
+[2014-07-24 18.56.12] -------------------- CREATE --------------------
+[2014-07-24 18.56.12] Creating Project Backup infrastructure for project [D:\Projects\AltiumProjects\RockerBox_Rev01\PADS\RockerBox_Rev01\RockerBox_Rev01.prj].
+[2014-07-24 18.56.13] Successfully created [AutoSave] backup [2014-07-24 18.56.13 - auto.zip] requested by [DND-1285:gta].

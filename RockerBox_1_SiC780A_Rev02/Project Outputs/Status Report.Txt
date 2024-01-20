@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [Production 220uF] of PCB Document [RockerBox_1_SiC780A_Rev02.PcbDoc]
+   Generated File[Pick Place for RockerBox_1_SiC780A_Rev02(Production 220uF).txt]
+   Generated File[Pick Place for RockerBox_1_SiC780A_Rev02(Production 220uF).csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 16:33:22 On 03.12.2014

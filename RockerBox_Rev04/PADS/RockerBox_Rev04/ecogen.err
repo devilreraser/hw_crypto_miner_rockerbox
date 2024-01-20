@@ -1,0 +1,19 @@
+PADS Layout ECO Generator (Version 6.4v) 17.10.2014 15:34:55
+Copyright (c) 2003 - 2008 Mentor Graphics Corp. - All rights reserved
+Command line arguments:  -e D:\Projects\AltiumProjects\RockerBox_Rev04\PADS\RockerBox_Rev04\ecogen.err -u NOT_CONNECTED -d D:\Projects\AltiumProjects\RockerBox_Rev04\PADS\RockerBox_Rev04\powerpcb.rep -r pa -a PCB,PART,NET,PIN -f
+70 msec
+0 msec
+Reading the OLD DESIGN
+There are 579 parts in the design
+There are 159 signals in the design
+There are 3565 pins in the design
+110 msec
+Reading the NEW DESIGN
+There are 582 parts in the design
+There are 159 signals in the design
+There are 3571 pins in the design
+20 msec
+Final cost=328
+Partitioning - 10 msec
+Final Matching - 220 msec
+Deleted pins: 0,  Added pins: 6

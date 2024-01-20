@@ -1,0 +1,41 @@
+[2014.11.12 10:30:24] [0000m.00s.320ms] [0] WELCOME
+[2014.11.12 10:30:24] [0000m.00s.320ms] [1] iCDB Server ver.2.000, hGc487x932cVTlF/23L1Pg, build:628520 created 2014-06-03 07:22:25, sources stamp:hGc487x932cVTlF/23L1Pg
+[2014.11.12 10:30:24] [0000m.00s.320ms] [1] Copyright 2014 Mentor Graphics Corporation. All Rights Reserved.
+[2014.11.12 10:30:24] [0000m.00s.320ms] [1] Base flow version [VX.0]
+[2014.11.12 10:30:24] [0000m.00s.320ms] [1] GBS Install Id [38956], Flow Id [PADS VX.0], Full Flow Name [PADS VX.0], Exact Access Date [Feb 1 2014]
+[2014.11.12 10:30:24] [0000m.00s.320ms] [1] Machine [DND-1285]  User [gta]  PID [26472]
+[2014.11.12 10:30:24] [0000m.00s.320ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2014.11.12 10:30:24] [0000m.00s.320ms] [1] Current working dir [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01]
+[2014.11.12 10:30:24] [0000m.00s.320ms] [1] PATH [C:\MentorGraphics\PADSVX.0\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.0\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.0\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.0\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.0\SDD_HOME\wv\win32\bin;%MGC_HOME%\bin;C:\PROGRA~1\PTC\MKSTOO~1\bin64;C:\PROGRA~1\PTC\MKSTOO~1\bin;C:\PROGRA~1\PTC\MKSTOO~1\bin\X11;C:\PROGRA~1\PTC\MKSTOO~1\mksnt;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;c:\Program Files (x86)\Common Files\Roxio Shared\10.0\DLLShared\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\proeWildfire 5.0\bin;C:\Program Files\proeWildfire 5.0\mech\bin;C:\Program Files (x86)\SysinternalsSuite2012.05.14;C:\Program Files (x86)\Hewlett-Packard\HP Performance Advisor;C:\Cadence\SPB_16.5\OpenAccess\bin\win32\opt;C:\Cadence\SPB_16.5\tools\bin;C:\Cadence\SPB_16.5\tools\Capture;C:\Cadence\SPB_16.5\tools\PSpice\Library;C:\Cadence\SPB_16.5\tools\PSpice;C:\Cadence\SPB_16.5\tools\fet\bin;C:\Cadence\SPB_16.5\tools\specctra\bin;C:\Cadence\SPB_16.5\tools\pcb\bin;;C:\MentorGraphics\9.3.1PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib]
+[2014.11.12 10:30:24] [0000m.00s.320ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.0\SDD_HOME] on file system [NTFS]
+[2014.11.12 10:30:24] [0000m.00s.320ms] [1] SDD_PLATFORM [win32]
+[2014.11.12 10:30:24] [0000m.00s.320ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.0\SDD_HOME\standard;]
+[2014.11.12 10:30:24] [0000m.00s.320ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2014.11.12 10:30:24] [0000m.00s.320ms] [0] Creating database content backup before upgrade
+[2014.11.12 10:30:24] [0000m.00s.450ms] [0] Database content backed up to [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\cdbback\2014-11-12 10.30.24-26472.zip] of size [287 988 bytes (281.2 kB)] in [134ms 853us]
+[2014.11.12 10:30:24] [0000m.00s.460ms] [0] Upgrading constraint definitions from version [ce_ee.cns=7.10.24;user.cns=4234-e5c2-9dd9-0cfa-02f6-c545-2f6c-5450-d981-1da4-e213-909f]
+[2014.11.12 10:30:24] [0000m.00s.470ms] [0] Upgrading snapshot [1:DxD] from version [2709]
+[2014.11.12 10:30:24] [0000m.00s.480ms] [1] CORE: Upgrade atlas from version 507 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000010000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: Upgrade atlas from version 517 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000010000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: Upgrade atlas from version 517 to 518 completed successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000010000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: Upgrade atlas from version 507 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000020000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: Upgrade atlas from version 517 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000020000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: Upgrade atlas from version 517 to 518 completed successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000020000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: Upgrade atlas from version 507 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000030000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: Upgrade atlas from version 517 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000030000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: Upgrade atlas from version 517 to 518 completed successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000030000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade atlas from version 507 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000040000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade atlas from version 517 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000040000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade atlas from version 517 to 518 completed successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000040000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade atlas from version 507 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000050000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade atlas from version 517 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000050000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade atlas from version 517 to 518 completed successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000050000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade snapshot DxD completed successfully.
+[2014.11.12 10:30:24] [0000m.00s.530ms] [0] Snapshot [1:DxD] upgraded to version [2800] in [66ms 287us]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [0] Upgrading constraint definitions for snapshot [1:DxD]
+[2014.11.12 10:30:24] [0000m.00s.550ms] [0] Constraint definitions for snapshot [1:DxD] upgraded in [15ms 387us]
+[2014.11.12 10:30:24] [0000m.00s.550ms] [0] Saving upgraded snapshot [1:DxD]
+[2014.11.12 10:30:24] [0000m.00s.640ms] [0] Upgraded snapshot [1:DxD] saved in [92ms 560us]
+[2014.11.12 10:30:24] [0000m.00s.800ms] [0] Constraint definitions upgraded to version [ce_ee.cns=7.10.35]
+[2014.11.12 10:30:24] [0000m.00s.800ms] [0] DONE
+[2014.11.12 10:30:24] [0000m.00s.800ms] [0] .

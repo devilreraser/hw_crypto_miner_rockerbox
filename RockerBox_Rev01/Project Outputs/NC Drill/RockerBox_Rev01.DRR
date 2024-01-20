@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: RockerBox_Rev01.PcbDoc   8/6/2014  5:58:24 PM
+---------------------------------------------------------------------------
+
+Layer Pair : L1 to L4
+ASCII Plated RoundHoles File : RockerBox_Rev01-Plated.TXT
+ASCII Non-Plated RoundHoles File : RockerBox_Rev01-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          1853             74.02 Inch (1880.03 mm)
+T2        11.81mil (0.29997mm)     Round          1399             164.47 Inch (4177.46 mm)
+T3        45.28mil (1.15011mm)     Round          5                0.40 Inch (10.16 mm)
+T4        47.24mil (1.1999mm)      Round          3                0.28 Inch (7.00 mm)
+T5        70.87mil (1.8001mm)      Round          48               21.62 Inch (549.20 mm)
+T6        157.48mil (3.99999mm)    Round          13               33.04 Inch (839.10 mm)
+T7        35.43mil (0.89992mm)     Round          2         NPTH   0.17 Inch (4.40 mm)
+---------------------------------------------------------------------------
+Totals                                            3323             293.99 Inch (7467.35 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

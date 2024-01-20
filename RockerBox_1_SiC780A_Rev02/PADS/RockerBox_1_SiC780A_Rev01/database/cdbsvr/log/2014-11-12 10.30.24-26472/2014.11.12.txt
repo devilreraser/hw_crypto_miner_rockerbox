@@ -1,0 +1,283 @@
+[2014.11.12 10:30:24] [0000m.00s.040ms] [0] WELCOME
+[2014.11.12 10:30:24] [0000m.00s.040ms] [1] iCDB Server ver.2.000, hGc487x932cVTlF/23L1Pg, build:628520 created 2014-06-03 07:22:25, sources stamp:hGc487x932cVTlF/23L1Pg
+[2014.11.12 10:30:24] [0000m.00s.040ms] [1] Copyright 2014 Mentor Graphics Corporation. All Rights Reserved.
+[2014.11.12 10:30:24] [0000m.00s.040ms] [1] Base flow version [VX.0]
+[2014.11.12 10:30:24] [0000m.00s.040ms] [1] GBS Install Id [38956], Flow Id [PADS VX.0], Full Flow Name [PADS VX.0], Exact Access Date [Feb 1 2014]
+[2014.11.12 10:30:24] [0000m.00s.040ms] [1] Machine [DND-1285]  User [gta]  PID [26472]
+[2014.11.12 10:30:24] [0000m.00s.040ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2014.11.12 10:30:24] [0000m.00s.040ms] [1] Current working dir [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01]
+[2014.11.12 10:30:24] [0000m.00s.040ms] [1] PATH [C:\MentorGraphics\PADSVX.0\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.0\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.0\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.0\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.0\SDD_HOME\wv\win32\bin;%MGC_HOME%\bin;C:\PROGRA~1\PTC\MKSTOO~1\bin64;C:\PROGRA~1\PTC\MKSTOO~1\bin;C:\PROGRA~1\PTC\MKSTOO~1\bin\X11;C:\PROGRA~1\PTC\MKSTOO~1\mksnt;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;c:\Program Files (x86)\Common Files\Roxio Shared\10.0\DLLShared\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\proeWildfire 5.0\bin;C:\Program Files\proeWildfire 5.0\mech\bin;C:\Program Files (x86)\SysinternalsSuite2012.05.14;C:\Program Files (x86)\Hewlett-Packard\HP Performance Advisor;C:\Cadence\SPB_16.5\OpenAccess\bin\win32\opt;C:\Cadence\SPB_16.5\tools\bin;C:\Cadence\SPB_16.5\tools\Capture;C:\Cadence\SPB_16.5\tools\PSpice\Library;C:\Cadence\SPB_16.5\tools\PSpice;C:\Cadence\SPB_16.5\tools\fet\bin;C:\Cadence\SPB_16.5\tools\specctra\bin;C:\Cadence\SPB_16.5\tools\pcb\bin;;C:\MentorGraphics\9.3.1PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib]
+[2014.11.12 10:30:24] [0000m.00s.040ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.0\SDD_HOME] on file system [NTFS]
+[2014.11.12 10:30:24] [0000m.00s.040ms] [1] SDD_PLATFORM [win32]
+[2014.11.12 10:30:24] [0000m.00s.040ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.0\SDD_HOME\standard;]
+[2014.11.12 10:30:24] [0000m.00s.040ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2014.11.12 10:30:24] [0000m.00s.040ms] [2] S: Loading config files
+[2014.11.12 10:30:24] [0000m.00s.080ms] [1] Config file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\cdbsvr\Server.cfg] not found
+[2014.11.12 10:30:24] [0000m.00s.090ms] [3] S: Config loaded
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] S: Project path [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database] on file system [NTFS]
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] S: Project file (.prj) path [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\RockerBox_1_SiC780A_Rev01.prj] on file system [NTFS]
+[2014.11.12 10:30:24] [0000m.00s.090ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] S: Single-user mode (auto)
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] S: Event polling mode autodetection
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] S: Started up automatically by iCDB Client: DND-1285:gta:25812
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] S: Auto close mode
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] S: Database ID [95f1-7ccb-7ec1-5b39-33db-0648-3db0-6450-98c3-1da4-e213-909f]
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] PathTranslator: BEGIN dumping
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] PathTranslator: Local -> global path prefix list
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] PathTranslator: [D:\install_D&D_2012.05.21_x64\My install\AD10] -> [\\DND-1285\AD10]
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] PathTranslator: [D:\Projects\cad_libraries] -> [\\DND-1285\cad_libraries]
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] PathTranslator: [D:\Share] -> [\\DND-1285\Share]
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] PathTranslator: Global -> local path prefix list
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] PathTranslator: [\\DND-1285\cad_libraries] -> [D:\Projects\cad_libraries]
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] PathTranslator: [\\DND-1285\Share] -> [D:\Share]
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] PathTranslator: [\\DND-1285\AD10] -> [D:\install_D&D_2012.05.21_x64\My install\AD10]
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] PathTranslator: END dumping
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] S: START
+[2014.11.12 10:30:24] [0000m.00s.090ms] [0] S: Server startup lock file created
+[2014.11.12 10:30:24] [0000m.00s.100ms] [0] S: Listening for client connections on port [10000]
+[2014.11.12 10:30:24] [0000m.00s.120ms] [0] S: Server network ID [dnd-1285:10.35.49.85,169.254.188.47,192.168.59.1,dnd-1285:10000]
+[2014.11.12 10:30:24] [0000m.00s.120ms] [0] S: Server GUID [5d59-ac3a-58a7-77b9-0aa1-3645-aa13-6450-5805-1da4-e213-909f]
+[2014.11.12 10:30:24] [0000m.00s.120ms] [0] S: Project GUID [95f1-7ccb-7ec1-5b39-33db-0648-3db0-6450-98c3-1da4-e213-909f]
+[2014.11.12 10:30:24] [0000m.00s.120ms] [0] S: Wrote data to server address file
+[2014.11.12 10:30:24] [0000m.00s.120ms] [0] S: Server startup lock file removed
+[2014.11.12 10:30:24] [0000m.00s.120ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\RockerBox_1_SiC780A_Rev01.prj]
+[2014.11.12 10:30:24] [0000m.00s.230ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2014.11.12 10:30:24] [0000m.00s.230ms] [0] S: Local disc access time: 28 us
+[2014.11.12 10:30:24] [0000m.00s.230ms] [0] S: File server access time: 31 us
+[2014.11.12 10:30:24] [0000m.00s.250ms] [0] Single file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\icdb.dat] size [377392 (368.5 kB)]
+[2014.11.12 10:30:24] [0000m.00s.250ms] [1] Single file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\icdb.dat] opened in read-write mode
+[2014.11.12 10:30:24] [0000m.00s.250ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.11.12 10:30:24] [0000m.00s.250ms] [0] Database GUARD OK: [377392]
+[2014.11.12 10:30:24] [0000m.00s.250ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.11.12 10:30:24] [0000m.00s.250ms] [0] Database GUARD OK: [377392]
+[2014.11.12 10:30:24] [0000m.00s.250ms] [0] SingleFile: [5191-9fb8-9e95-4029] SFI version check [1009] [1009]
+[2014.11.12 10:30:24] [0000m.00s.250ms] [0] SingleFile: [5191-9fb8-9e95-4029] Database SFI header has been read in [3ms 801us]
+[2014.11.12 10:30:24] [0000m.00s.250ms] [0] iCDB Server PI: Server & plugin session [21]
+[2014.11.12 10:30:24] [0000m.00s.250ms] [0] iCDB Server PI: Opening database [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database]
+[2014.11.12 10:30:24] [0000m.00s.250ms] [0] iCDB Server PI: Database [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database] opened
+[2014.11.12 10:30:24] [0000m.00s.270ms] [0] iCDB Database: Checking existence of constraint definitions
+[2014.11.12 10:30:24] [0000m.00s.270ms] [0] iCDB Database: Checking constraint definitions version
+[2014.11.12 10:30:24] [0000m.00s.320ms] [0] iCDB Database: Creating database content backup before upgrade
+[2014.11.12 10:30:24] [0000m.00s.320ms] [1] iCDB Storage Server: Database backup: ProjectPath[D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database]
+[2014.11.12 10:30:24] [0000m.00s.320ms] [0] iCDB Storage Server Backup Thread: Database backup: BackupPath[D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\cdbback\2014-11-12 10.30.24-26472.zip]
+[2014.11.12 10:30:24] [0000m.00s.430ms] [0] iCDB Storage Server Backup Thread: Backup database DONE: Result[ Succeeded[TRUE]] BackupPath[D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\cdbback\2014-11-12 10.30.24-26472.zip]
+[2014.11.12 10:30:24] [0000m.00s.450ms] [0] iCDB Database: Database content backed up to [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\cdbback\2014-11-12 10.30.24-26472.zip] of size [287 988 bytes (281.2 kB)]  in [134ms 853us]
+[2014.11.12 10:30:24] [0000m.00s.460ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.10.24;user.cns=4234-e5c2-9dd9-0cfa-02f6-c545-2f6c-5450-d981-1da4-e213-909f]
+[2014.11.12 10:30:24] [0000m.00s.470ms] [0] iCDB Database: Upgrading snapshot [1:DxD] from version [2709]
+[2014.11.12 10:30:24] [0000m.00s.470ms] [1] CORE: Applying a fix no 121 stage [fsAtlasLoaded] to atlas [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcatlg\grpatl]
+[2014.11.12 10:30:24] [0000m.00s.470ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcatlg\grpatl]
+[2014.11.12 10:30:24] [0000m.00s.480ms] [1] CORE: Upgrade atlas from version 507 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000010000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: Upgrade atlas from version 517 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000010000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: Upgrade atlas from version 517 to 518 completed successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000010000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: Applying a fix no 122 stage [fsAtlasLoaded] to atlas [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000010000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: Applying a fix no 123 stage [fsAtlasLoaded] to atlas [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000010000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [3-9-49] [9] } 
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [3-9-49] [9] } 
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [3-9-47] [9] } 
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [3-9-47] [9] } 
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [3-10-49] [10] } 
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [3-10-49] [10] } 
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [3-10-47] [10] } 
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [3-10-47] [10] } 
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000010000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: Applying a fix no 120 stage [fsAtlasLoaded] to atlas [varatl]
+[2014.11.12 10:30:24] [0000m.00s.500ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [varatl]
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: Upgrade atlas from version 507 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000020000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: Upgrade atlas from version 517 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000020000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: Upgrade atlas from version 517 to 518 completed successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000020000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: Applying a fix no 122 stage [fsAtlasLoaded] to atlas [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000020000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: Applying a fix no 123 stage [fsAtlasLoaded] to atlas [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000020000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [3-11-49] [1] } 
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [3-11-49] [1] } 
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [3-11-47] [1] } 
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [3-11-47] [1] } 
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [3-12-49] [2] } 
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [3-13-49] [3] } 
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000020000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: Applying a fix no 120 stage [fsAtlasLoaded] to atlas [varatl]
+[2014.11.12 10:30:24] [0000m.00s.510ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [varatl]
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: Upgrade atlas from version 507 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000030000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: Upgrade atlas from version 517 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000030000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: Upgrade atlas from version 517 to 518 completed successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000030000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: Applying a fix no 122 stage [fsAtlasLoaded] to atlas [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000030000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: Applying a fix no 123 stage [fsAtlasLoaded] to atlas [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000030000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [3-48-49] [1] } 
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [3-48-49] [1] } 
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [3-48-47] [1] } 
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [3-48-47] [1] } 
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [3-107-49] [60] } 
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [3-107-49] [60] } 
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [3-107-47] [60] } 
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [3-107-47] [60] } 
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000030000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: Applying a fix no 120 stage [fsAtlasLoaded] to atlas [varatl]
+[2014.11.12 10:30:24] [0000m.00s.520ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [varatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade atlas from version 507 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000040000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade atlas from version 517 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000040000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade atlas from version 517 to 518 completed successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000040000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Applying a fix no 122 stage [fsAtlasLoaded] to atlas [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000040000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Applying a fix no 123 stage [fsAtlasLoaded] to atlas [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000040000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [3-113-49] [1] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [3-113-49] [1] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [3-113-47] [1] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [3-113-47] [1] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [3-114-49] [2] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000040000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Applying a fix no 120 stage [fsAtlasLoaded] to atlas [varatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [varatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade atlas from version 507 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000050000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade atlas from version 517 [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000050000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade atlas from version 517 to 518 completed successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000050000050.blk\dxdatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Applying a fix no 122 stage [fsAtlasLoaded] to atlas [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000050000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Applying a fix no 123 stage [fsAtlasLoaded] to atlas [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000050000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [3-115-49] [1] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [3-117-49] [3] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [3-122-49] [8] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [3-122-49] [8] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [3-122-47] [8] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [3-122-47] [8] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: There is a power PhysicalNet without SUPPLY_VOLTAGE{[CesPhysicalNet] [3-129-49] [15] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesPhysicalNet] [3-129-49] [15] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: There is a power ElectricalNet without SUPPLY_VOLTAGE{[CesElectricalNet] [3-129-47] [15] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: SUPPLY_VOLTAGE was added to the object{[CesElectricalNet] [3-129-47] [15] } 
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000050000050.blk\cesatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Applying a fix no 120 stage [fsAtlasLoaded] to atlas [varatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [varatl]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [1] CORE: Upgrade snapshot DxD completed successfully.
+[2014.11.12 10:30:24] [0000m.00s.530ms] [0] iCDB Database: Snapshot [1:DxD] upgraded to version [2800] in [66ms 287us]
+[2014.11.12 10:30:24] [0000m.00s.530ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [1:DxD]
+[2014.11.12 10:30:24] [0000m.00s.550ms] [0] iCDB Database: Constraint definitions for snapshot [1:DxD] upgraded in [15ms 387us]
+[2014.11.12 10:30:24] [0000m.00s.550ms] [0] iCDB Database: Saving upgraded snapshot [1:DxD]
+[2014.11.12 10:30:24] [0000m.00s.640ms] [0] iCDB Database: Upgraded snapshot [1:DxD] saved in [92ms 560us]
+[2014.11.12 10:30:24] [0000m.00s.690ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000010000050.blk\dxdatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000020000050.blk\dxdatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000030000050.blk\dxdatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000040000050.blk\dxdatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbblks\3000000050000050.blk\dxdatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcatlg\grpatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcmpcache\dxdatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000010000050.blk\cesatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000010000050.blk\varatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000020000050.blk\cesatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000020000050.blk\varatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000030000050.blk\cesatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000030000050.blk\varatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000040000050.blk\cesatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000040000050.blk\varatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000050000050.blk\cesatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\cdbcnfgs\3000000050000050.blk\varatl.v] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\params] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\s1\uids] - auto-saving it
+[2014.11.12 10:30:24] [0000m.00s.800ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.10.35]
+[2014.11.12 10:30:25] [0000m.01s.070ms] [0] iCDB Server PI: Initializing plugins
+[2014.11.12 10:30:25] [0000m.01s.070ms] [0] iCDB Server PI: Plugins initialized
+[2014.11.12 10:30:25] [0000m.01s.070ms] [0] S: iCDB database loaded
+[2014.11.12 10:30:25] [0000m.01s.140ms] [1] PrjBackupMgr: Successfully created Project Backup [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\ProjectBackup\backups\2014-11-12 10.30.25 - upgrade.zip] with GUID [1012-0ada-e219-a34e-1aa1-3646-aa13-6450-5805-1da4-e213-909f]
+[2014.11.12 10:30:25] [0000m.01s.140ms] [1] PrjBackupMgr: Migrated iCDB content backup file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\cdbback\2014-11-12 10.30.24-26472.zip] removed
+[2014.11.12 10:30:25] [0000m.01s.150ms] [0] S: Starting threads
+[2014.11.12 10:30:25] [0000m.01s.150ms] [0] BT: Listening for broadcast messages on port [10000]
+[2014.11.12 10:30:25] [0000m.01s.150ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2014.11.12 10:30:25] [0000m.01s.180ms] [0] IT: Session [22] for host [dnd-1285] user [gta] with process ID [25812] created
+[2014.11.12 10:30:25] [0000m.01s.180ms] [1] SC[22]: Registered sub-client [DxD] with ID [1] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:25] [0000m.01s.230ms] [1] SC[22]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:25] [0000m.01s.230ms] [1] SC[22]: Registered sub-client [xprob] with ID [3] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:25] [0000m.01s.250ms] [1] CMT: There are [1] clients now: 22
+[2014.11.12 10:30:26] [0000m.02s.810ms] [1] SC[22]: Registered sub-client [SelectionHolder] with ID [4] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:26] [0000m.02s.820ms] [1] SC[22]: Registered sub-client [SymbolEditor] with ID [5] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:26] [0000m.02s.820ms] [1] SC[22]: Registered sub-client [BlockCacheDxD:481663288] with ID [6] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.02s.960ms] [1] SC[22]: Registered sub-client [ObjectHolder_146528608] with ID [7] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.02s.960ms] [1] SC[22]: Registered sub-client [GlobalNetAliasUpdater_146528784] with ID [8] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.02s.960ms] [1] SC[22]: Registered sub-client [IcdbNetProcessorSubClientDxD:512390664] with ID [9] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.02s.960ms] [1] SC[22]: UnRegistered sub-client [GlobalNetAliasUpdater_146528784] with ID [8] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.02s.970ms] [1] SC[22]: UnRegistered sub-client [ObjectHolder_146528608] with ID [7] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.02s.970ms] [1] SC[22]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:512390664] with ID [9] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.160ms] [1] SC[22]: Registered sub-client [ObjectHolder_146528960] with ID [10] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.160ms] [1] SC[22]: Registered sub-client [GlobalNetAliasUpdater_146529136] with ID [11] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.170ms] [1] SC[22]: Registered sub-client [IcdbNetProcessorSubClientDxD:519184416] with ID [12] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.180ms] [1] SC[22]: UnRegistered sub-client [GlobalNetAliasUpdater_146529136] with ID [11] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.180ms] [1] SC[22]: UnRegistered sub-client [ObjectHolder_146528960] with ID [10] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.180ms] [1] SC[22]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:519184416] with ID [12] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.300ms] [1] SC[22]: Registered sub-client [ObjectHolder_481466856] with ID [13] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.300ms] [1] SC[22]: Registered sub-client [GlobalNetAliasUpdater_481467032] with ID [14] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.300ms] [1] SC[22]: Registered sub-client [IcdbNetProcessorSubClientDxD:481487128] with ID [15] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.310ms] [1] SC[22]: UnRegistered sub-client [GlobalNetAliasUpdater_481467032] with ID [14] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.310ms] [1] SC[22]: UnRegistered sub-client [ObjectHolder_481466856] with ID [13] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.310ms] [1] SC[22]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:481487128] with ID [15] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.470ms] [1] SC[22]: Registered sub-client [ObjectHolder_146529840] with ID [16] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.470ms] [1] SC[22]: Registered sub-client [GlobalNetAliasUpdater_146530896] with ID [17] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.480ms] [1] SC[22]: Registered sub-client [IcdbNetProcessorSubClientDxD:511787832] with ID [18] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.490ms] [1] SC[22]: UnRegistered sub-client [GlobalNetAliasUpdater_146530896] with ID [17] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.490ms] [1] SC[22]: UnRegistered sub-client [ObjectHolder_146529840] with ID [16] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.490ms] [1] SC[22]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:511787832] with ID [18] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.502ms] [1] SC[22]: Registered sub-client [ObjectHolder_146531072] with ID [19] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.502ms] [1] SC[22]: Registered sub-client [GlobalNetAliasUpdater_146531424] with ID [20] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.502ms] [1] SC[22]: Registered sub-client [IcdbNetProcessorSubClientDxD:520568032] with ID [21] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.502ms] [1] SC[22]: UnRegistered sub-client [GlobalNetAliasUpdater_146531424] with ID [20] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.502ms] [1] SC[22]: UnRegistered sub-client [ObjectHolder_146531072] with ID [19] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.502ms] [1] SC[22]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:520568032] with ID [21] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.502ms] [1] SC[22]: UnRegistered sub-client [BlockCacheDxD:481663288] with ID [6] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.512ms] [1] SC[22]: Registered sub-client [SystemDesignDll] with ID [22] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.512ms] [1] SC[22]: UnRegistered sub-client [SystemDesignDll] with ID [22] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:27] [0000m.03s.512ms] [1] SC[22]: Registered sub-client [SystemDesignDll] with ID [23] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:29] [0000m.05s.282ms] [1] SC[22]: Registered sub-client [HdlProject] with ID [24] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:29] [0000m.05s.292ms] [1] SC[22]: Registered sub-client [Navigator] with ID [25] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:29] [0000m.05s.302ms] [1] SC[22]: Registered sub-client [OutputWindow] with ID [26] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:29] [0000m.05s.302ms] [1] SC[22]: Registered sub-client [PlaceDevice] with ID [27] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:29] [0000m.05s.312ms] [1] SC[22]: Registered sub-client [SAE] with ID [28] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:29] [0000m.05s.332ms] [1] SC[22]: Registered sub-client [DxConstraints] with ID [29] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:29] [0000m.05s.332ms] [1] SC[22]: Registered sub-client [CCZAddin] with ID [30] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:29] [0000m.05s.332ms] [1] SC[22]: Registered sub-client [DxThumbnails] with ID [31] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:29] [0000m.05s.332ms] [1] SC[22]: Registered sub-client [MyParts] with ID [32] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:29] [0000m.05s.392ms] [1] SC[22]: Registered sub-client [PinsList] with ID [33] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:29] [0000m.05s.432ms] [1] SC[22]: Registered sub-client [toolboxes] with ID [34] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:29] [0000m.05s.462ms] [1] SC[22]: Registered sub-client [SheetConnectorsCacheDxD:1415781029] with ID [35] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:29] [0000m.05s.492ms] [1] SC[22]: Registered sub-client [NetsNamesCollectorDxD:1415781029] with ID [36] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:30] [0000m.06s.032ms] [1] PrjBackupMgr: Successfully created Project Backup [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\ProjectBackup\backups\2014-11-12 10.30.30 - auto.zip] with GUID [3a98-6a41-b5d9-a8c9-6aa1-364b-aa13-6450-d3e4-1da4-e213-909f]
+[2014.11.12 10:30:30] [0000m.06s.032ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[3a98-6a41-b5d9-a8c9-6aa1-364b-aa13-6450-d3e4-1da4-e213-909f] CreationTime[Wednesday, November 12, 2014 08:30:30] Type[Autosave] Creator[iCDB Server (2014-11-12 10.30.24-26472)] ApplicationName[iCDB Server (2014-11-12 10.30.24-26472)] UserName[gta] MachineName[DND-1285] Description[Autosave] FullFlowName[PADS VX.0] FlowId[PADS VX.0] GBSInstallId[38956] GBSBuildId[628520] IcdbVersion[2800] ReferenceLogFilePath[] BackupFilePath[D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\ProjectBackup\backups\2014-11-12 10.30.30 - auto.zip] BackupFileSize[320449] Persistent[FALSE]
+[2014.11.12 10:30:32] [0000m.08s.242ms] [1] SC[22]: Registered sub-client [ObjectHolder_486789920] with ID [37] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:32] [0000m.08s.242ms] [1] SC[22]: Registered sub-client [BlockCacheDxD:519100208] with ID [38] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:32] [0000m.08s.242ms] [1] SC[22]: Registered sub-client [GlobalNetAliasUpdater_486789744] with ID [39] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:32] [0000m.08s.252ms] [1] SC[22]: Registered sub-client [IcdbNetProcessorSubClientDxD:514428168] with ID [40] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:30:44] [0000m.20s.152ms] [0] DFAMT: File server access time: 37 us
+[2014.11.12 10:31:22] [0000m.58s.207ms] [1] SC[22]: UnRegistered sub-client [Navigator] with ID [25] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:22] [0000m.58s.207ms] [1] SC[22]: UnRegistered sub-client [OutputWindow] with ID [26] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:22] [0000m.58s.207ms] [1] SC[22]: UnRegistered sub-client [PlaceDevice] with ID [27] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:22] [0000m.58s.207ms] [1] SC[22]: UnRegistered sub-client [SAE] with ID [28] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:22] [0000m.58s.207ms] [1] SC[22]: UnRegistered sub-client [DxConstraints] with ID [29] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:22] [0000m.58s.207ms] [1] SC[22]: UnRegistered sub-client [CCZAddin] with ID [30] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:22] [0000m.58s.207ms] [1] SC[22]: UnRegistered sub-client [DxThumbnails] with ID [31] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:22] [0000m.58s.377ms] [1] SC[22]: UnRegistered sub-client [MyParts] with ID [32] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:22] [0000m.58s.377ms] [1] SC[22]: UnRegistered sub-client [PinsList] with ID [33] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:22] [0000m.58s.377ms] [1] SC[22]: UnRegistered sub-client [toolboxes] with ID [34] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.58s.987ms] [1] SC[22]: UnRegistered sub-client [HdlProject] with ID [24] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.58s.987ms] [1] SC[22]: UnRegistered sub-client [SystemDesignDll] with ID [23] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.59s.027ms] [1] SC[22]: UnRegistered sub-client [GlobalNetAliasUpdater_486789744] with ID [39] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.59s.027ms] [1] SC[22]: UnRegistered sub-client [BlockCacheDxD:519100208] with ID [38] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.59s.027ms] [1] SC[22]: UnRegistered sub-client [ObjectHolder_486789920] with ID [37] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.59s.027ms] [1] SC[22]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:514428168] with ID [40] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.59s.027ms] [1] SC[22]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.59s.027ms] [1] SC[22]: UnRegistered sub-client [SheetConnectorsCacheDxD:1415781029] with ID [35] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.59s.027ms] [1] SC[22]: UnRegistered sub-client [NetsNamesCollectorDxD:1415781029] with ID [36] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.59s.027ms] [1] SC[22]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.59s.027ms] [1] SC[22]: UnRegistered sub-client [DxD] with ID [1] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.59s.037ms] [1] SC[22]: UnRegistered sub-client [xprob] with ID [3] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.59s.037ms] [1] SC[22]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [22] host [dnd-1285] user [gta] process ID [25812]
+[2014.11.12 10:31:23] [0000m.59s.057ms] [1] CMT: Removed client [22]
+[2014.11.12 10:31:23] [0000m.59s.057ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.11.12 10:31:25] [0001m.00s.857ms] [0] CMT: Starting server auto-close
+[2014.11.12 10:31:25] [0001m.00s.957ms] [0] S: Closing server
+[2014.11.12 10:31:25] [0001m.01s.087ms] [0] iCDB Server PI: Closing plugins
+[2014.11.12 10:31:25] [0001m.01s.087ms] [0] iCDB Server PI: Plugins closed
+[2014.11.12 10:31:25] [0001m.01s.087ms] [0] iCDB Server PI: Unloading database
+[2014.11.12 10:31:25] [0001m.01s.087ms] [0] iCDB Server PI: Saving storage
+[2014.11.12 10:31:25] [0001m.01s.087ms] [0] iCDB Server PI: Closing database
+[2014.11.12 10:31:25] [0001m.01s.127ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[0%] data[86%]
+[2014.11.12 10:31:25] [0001m.01s.127ms] [1] iCDB Server PI: Stats: Database file size [437696 (427.4 kB)]
+[2014.11.12 10:31:25] [0001m.01s.177ms] [0] iCDB Server PI: Database closed
+[2014.11.12 10:31:25] [0001m.01s.177ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [11713] ticks
+[2014.11.12 10:31:25] [0001m.01s.177ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [3748] microseconds
+[2014.11.12 10:31:25] [0001m.01s.177ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [16]
+[2014.11.12 10:31:25] [0001m.01s.177ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [4268] commands per second
+[2014.11.12 10:31:25] [0001m.01s.177ms] [0] Single file [D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev01\PADS\RockerBox_1_SiC780A_Rev01\database\icdb.dat] closed with size [437696 (427.4 kB)]
+[2014.11.12 10:31:25] [0001m.01s.357ms] [0] S: STOP

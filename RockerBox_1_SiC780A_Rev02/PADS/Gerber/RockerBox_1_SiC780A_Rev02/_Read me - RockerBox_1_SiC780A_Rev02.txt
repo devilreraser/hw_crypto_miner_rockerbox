@@ -1,0 +1,22 @@
+_Read me - RockerBox_1_SiC780A_Rev02.txt - This file;
+RockerBox_1_SiC780A_Rev02.xls - Component report;
+RockerBox_1_SiC780A_Rev02.cam - CAM350-file, include all Gerber data;
+RockerBox_1_SiC780A_Rev02.dxf - PCB in dxf format;
+RockerBox_1_SiC780A_Rev02.ipc - IPC-D-356 netlist;
+RockerBox_1_SiC780A_Rev02.pdf - Gerber files in pdf-format;
+AST.pho - Assembly Top;
+SPT.pho - Solder Paste Top;
+SMT.pho - Solder Mask Top;
+TOP.pho - Top layer.
+BRD.pho - Board outline;
+DRD.pho - Drill drawing;
+FAB.pho - Fabrication layer;
+BOT.pho - Bottom Layer
+ASB.pho - Assembly Bott;
+L2.pho - Internal Layer 2;
+L3.pho - Internal Layer 3;
+SMB.pho - Solder Mask Bott;
+SPB.pho - Solder Paste Bott;
+TPT.pho - Test Points Top
+DRL.drl - Drill file in format Absolute, Leading, Metric, 3.3;
+

@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [RockerBox_Rev01.PcbDoc]
+   Generated File[RockerBox_Rev01.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:58:41 PM On 8/6/2014

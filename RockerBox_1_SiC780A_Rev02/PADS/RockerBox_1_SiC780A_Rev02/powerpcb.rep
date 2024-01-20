@@ -1,0 +1,71 @@
+*PADS-ECO-V10.0-MILS*
+*REMARK*  old file: D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev02\PADS\RockerBox_1_SiC780A_Rev02\ppc7C6F.asc
+*REMARK*  new file: D:\Projects\AltiumProjects\RockerBox_1_SiC780A_Rev02\PADS\RockerBox_1_SiC780A_Rev02\Block.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 03.12.2014 14:03:11
+
+PART DIFFERENCES
+----------------
+OLD DESIGN                                        NEW DESIGN
+Ref-des	Part-type:Decal                           Ref-des	Part-type:Decal
+<none>                                            J5   PTH_DC-POWER-JACK_210-112:PTH_DC-POWER-JACK_210-112
+<none>                                            J4   PTH_HDRV40W6240P254_2X02_M:PTH_HDRV40W6240P254_2X02_M
+
+NET DIFFERENCES
+----------------
+OLD DESIGN                                        NEW DESIGN
+$1I83\$1N2834                                     $1I83\$1N2900
+$1I83\$1N2835                                     $1I83\$1N2901
+$1I83\$1N2852                                     $1I83\$1N2918
+$1I83\$1N2853                                     $1I83\$1N2919
+$1I83\$1N2878                                     $1I83\$1N2944
+$1I83\$1N2883                                     $1I83\$1N2949
+$1I83\$1N2884                                     $1I83\$1N2950
+$1I83\$1N2885                                     $1I83\$1N2951
+$1I83\$1N2914                                     $1I83\$1N2980
+$1I83\$1N2945                                     $1I83\$1N3011
+$1I83\$1N2970                                     $1I83\$1N3036
+$1I83\$1N2971                                     $1I83\$1N3037
+$1I83\$1N2980                                     $1I83\$1N3046
+$1I83\$1N2981                                     $1I83\$1N3047
+$1I83\$1N2982                                     $1I83\$1N3048
+$1I83\$1N2987                                     $1I83\$1N3053
+$1I83\$1N2988                                     $1I83\$1N3054
+$1I83\$1N2989                                     $1I83\$1N3055
+$1I83\$1N2990                                     $1I83\$1N3056
+$1I83\$1N2991                                     $1I83\$1N3057
+$1I83\$1N2992                                     $1I83\$1N3058
+$1I83\$1N2993                                     $1I83\$1N3059
+$1I83\$1N2994                                     $1I83\$1N3060
+$1I83\$1N2999                                     $1I83\$1N3065
+$1I83\$1N3000                                     $1I83\$1N3066
+$1I83\$1N3009                                     $1I83\$1N3075
+
+SWAPPED GATE DIFFERENCES
+------------------------
+OLD DESIGN                                        NEW DESIGN
+
+SWAPPED PIN DIFFERENCES
+------------------------
+OLD DESIGN                                        NEW DESIGN
+
+
+UNMATCHED NET PINS IN OLD DESIGN
+--------------------------------
+$1I83\MCU5.0V       R10.2	U10.34	
+$1I83\USB5.0V       R10.1	
+
+UNMATCHED NET PINS IN NEW DESIGN
+--------------------------------
+$1I83\D+            J4.4	
+$1I83\D-            J4.3	
+$1I83\MCU5.0V       R10.1	U10.34	
+$1I83\USB5.0V       J4.1	R10.2	
+12V                 J5.1	
+GND                 J5.2	J4.2	J5.3	
+
+ATTRIBUTE DIFFERENCES
+---------------------
+Attribute Level	[ OLD DESIGN Parent -> NEW DESIGN Parent ]
+
+          Attribute Name           Old Value                New Value
+
